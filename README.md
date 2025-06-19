@@ -1,6 +1,8 @@
 # ArchitecturalDebtImplications
 
-## Project Data
+## Project Analyzed with Arcan
+
+This is the list of the projects analyzed with Arcan
 
 * [Train ticket](https://github.com/FudanSELab/train-ticket)
 * [Cloud shop](https://github.com/yun19830206/CloudShop-MicroService-Architecture)
@@ -12,3 +14,8 @@
 * [Java micro-service](https://github.com/apssouza22/java-microservice)
 * [FTGO-application](https://github.com/microservices-patterns/ftgo-application)
 * [Micronaut](https://github.com/asc-lab/micronaut-microservices-poc)
+
+## Results
+
+Folder `arcan-output` contains the filed generated with the analysis of Arcan
+
