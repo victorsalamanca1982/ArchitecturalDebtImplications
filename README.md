@@ -17,7 +17,7 @@ This is the list of the projects analyzed with Arcan
 
 ## Results
 
-Folder `arcan-output` contains the filed generated with the analysis of Arcan
+Folder `arcan-output` contains the files generated with the analysis of Arcan
 
 ## Instalation of Arcan
 
