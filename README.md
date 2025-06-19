@@ -22,5 +22,4 @@ Folder `arcan-output` contains the files generated with the analysis of Arcan
 ## Instalation of Arcan
 
 1. Once you have a copy of ArcanCLI, create an alias to the arcan.sh file: `$ alias arcan="path/to/arcan.sh"`
-2. Use the following command to run the analysis: `arcan analyze -i project-source/ -p output-folder/ -o output --all -t -l JAVA --startDate 2021-03-23 --endDate 2021-03-23 output.writeProjectMetrics=true`
-3. In the above command, replace `project-source` with the folder containing the project you want to analyze; `output-folder` with the folder where the analysis results will be stored; and the parameters `--startDate` and `--endDate` with the start and end dates of the project version you want to analyze.
+2. Use the following command to run the analysis: `arcan analyze -i project-source/ -p output-folder/ -o output --all -t -l JAVA --startDate 2021-03-23 --endDate 2021-03-23 output.writeProjectMetrics=true`. In the above command, replace `project-source` with the folder containing the project you want to analyze; `output-folder` with the folder where the analysis results will be stored; and the parameters `--startDate` and `--endDate` with the start and end dates of the project version you want to analyze.
