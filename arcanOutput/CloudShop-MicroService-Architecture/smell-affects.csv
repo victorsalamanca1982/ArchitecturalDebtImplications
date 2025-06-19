@@ -1,0 +1,5 @@
+project,versionId,versionIndex,versionDate,edgeId,edgeLabel,from,fromId,to,toId
+CloudShop-MicroService-Architecture/,1f9d7289bcd73f0af1a05b592b5121e9eeb3f1de,0,2019-07-17T10:17:55,4006,affects,cyclicDep,4003,com.cloud.shop.core.utils,455
+CloudShop-MicroService-Architecture/,1f9d7289bcd73f0af1a05b592b5121e9eeb3f1de,0,2019-07-17T10:17:55,4007,affects,cyclicDep,4003,com.cloud.shop.core.servicegovern.pojo,413
+CloudShop-MicroService-Architecture/,1f9d7289bcd73f0af1a05b592b5121e9eeb3f1de,0,2019-07-17T10:17:55,4014,affects,cyclicDep,4011,com.cloud.shop.core.servicegovern.serviceregister.registerimpl,380
+CloudShop-MicroService-Architecture/,1f9d7289bcd73f0af1a05b592b5121e9eeb3f1de,0,2019-07-17T10:17:55,4015,affects,cyclicDep,4011,com.cloud.shop.core.servicegovern.serviceregister,338

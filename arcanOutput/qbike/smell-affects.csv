@@ -1,0 +1,8 @@
+project,versionId,versionIndex,versionDate,edgeId,edgeLabel,from,fromId,to,toId
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4719,affects,cyclicDep,4716,club.newtech.qbike.intention.domain.core.vo,911
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4720,affects,cyclicDep,4716,club.newtech.qbike.intention.domain.core.root,919
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4727,affects,cyclicDep,4724,club.newtech.qbike.order.util,892
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4728,affects,cyclicDep,4724,club.newtech.qbike.order.domain.exception,189
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4729,affects,cyclicDep,4724,club.newtech.qbike.order.domain.service,205
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4736,affects,cyclicDep,4733,club.newtech.qbike.intention.domain.core.vo.Candidate,353
+qbike/,47301e2067b7d8f5614b2359a9934f4080367d2e,0,2019-01-03T05:47:28,4737,affects,cyclicDep,4733,club.newtech.qbike.intention.domain.core.root.Intention,425
