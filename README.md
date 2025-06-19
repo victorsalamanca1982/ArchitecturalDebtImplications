@@ -19,3 +19,7 @@ This is the list of the projects analyzed with Arcan
 
 Folder `arcan-output` contains the filed generated with the analysis of Arcan
 
+## Instalation of Arcan
+
+1. Una vez que tenga una copia de ArcanCLI, cree un alias al archivo arcan.sh: `$ alias arcan="path/to/arcan.sh"`
+2. 
