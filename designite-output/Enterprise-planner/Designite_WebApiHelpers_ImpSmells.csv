@@ -1,0 +1,2 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Magic Number,WebApiHelpers.ObjectResults,UnprocessableEntityObjectResult,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\EnterprisePlanner-master\EnterprisePlanner-master\WebApiHelpers\ObjectResults\UnprocessableEntityObjectResult.cs,UnprocessableEntityObjectResult,The following statement contains a magic number: StatusCode = 422;

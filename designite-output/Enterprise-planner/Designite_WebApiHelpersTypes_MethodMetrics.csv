@@ -1,0 +1,4 @@
+Namespace,Type,Method,LOC,CC,PC
+WebApiHelpersTypes.Helpers,ObjectToDictionaryConverter,ConvertToDictionary,11,3,1
+WebApiHelpersTypes.Helpers,ObjectToDictionaryConverter,GetAllProperties,0,1,1
+WebApiHelpersTypes.Helpers,ObjectToDictionaryConverter,GetAll,11,3,2
