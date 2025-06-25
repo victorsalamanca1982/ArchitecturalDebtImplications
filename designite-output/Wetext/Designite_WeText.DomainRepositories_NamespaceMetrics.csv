@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+WeText.DomainRepositories,WeText.DomainRepositories,WeText.Service.WeTextService,WeText.Common.Messaging.IMessagePublisher' WeText.Common.Repositories.DomainRepository' WeText.Common.IAggregateRoot

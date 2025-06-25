@@ -1,0 +1,6 @@
+Namespace,Type,Method,LOC,CC,PC
+WeText.Service,Program,Main,3,1,1
+WeText.Service,SystemServiceController,GetSystemInfo,9,1,0
+WeText.Service,WeTextService,DiscoverServices,28,5,1
+WeText.Service,WeTextService,Configuration,39,1,1
+WeText.Service,WeTextService,Start,35,6,1

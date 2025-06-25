@@ -1,0 +1,5 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+WeText.Messaging.RabbitMq,RabbitMqMessageSubscriber,5,4,0,0,2,59,6,0,1,0,3,1,WeText.Common.DisposableObject' WeText.Common.Messaging.IMessageSubscriber' WeText.Common.Messaging.MessageReceivedEventArgs,WeText.Service.WeTextService
+WeText.Messaging.RabbitMq,RabbitMqMessagePublisher,4,3,0,0,1,33,5,2,1,0,2,2,WeText.Common.DisposableObject' WeText.Common.Messaging.IMessagePublisher,WeText.Messaging.RabbitMq.RabbitMqEventPublisher' WeText.Messaging.RabbitMq.RabbitMqCommandSender
+WeText.Messaging.RabbitMq,RabbitMqCommandSender,0,1,0,0,1,6,1,0,2,-1,2,1,WeText.Common.Messaging.ICommandSender' WeText.Messaging.RabbitMq.RabbitMqMessagePublisher,WeText.Service.WeTextService
+WeText.Messaging.RabbitMq,RabbitMqEventPublisher,0,1,0,0,1,6,1,0,2,-1,2,1,WeText.Common.Messaging.IEventPublisher' WeText.Messaging.RabbitMq.RabbitMqMessagePublisher,WeText.Service.WeTextService

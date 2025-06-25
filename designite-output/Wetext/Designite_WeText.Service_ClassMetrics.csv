@@ -1,0 +1,4 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+WeText.Service,Program,0,1,0,0,0,7,1,0,0,-1,1,0,WeText.Service.WeTextService,
+WeText.Service,SystemServiceController,0,1,0,0,1,16,1,0,0,-1,0,0,,
+WeText.Service,WeTextService,4,3,0,0,2,112,12,0,2,0,14,1,WeText.Common.Config.WeTextConfiguration' WeText.Common.Config.WeTextConfigurationException' WeText.Common.Messaging.IMessageSubscriber' WeText.Common.Messaging.ICommandSender' WeText.Common.Messaging.IEventPublisher' WeText.Common.Services.IService' WeText.Common.Services.Service' WeText.Common.Repositories.IDomainRepository' WeText.DomainRepositories.MongoDomainRepository' WeText.DomainRepositories.MongoSetting' WeText.Messaging.RabbitMq.RabbitMqMessageSubscriber' WeText.Messaging.RabbitMq.RabbitMqCommandSender' WeText.Messaging.RabbitMq.RabbitMqEventPublisher' WeText.Services.Common.MicroserviceRegister<TService>,WeText.Service.Program

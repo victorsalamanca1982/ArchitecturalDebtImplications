@@ -1,0 +1,3 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Long Identifier,WeText.Services.Texting,TextingServiceRegister,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\Services\WeText.Services.Texting\TextingServiceRegister.cs,,The length of the parameter tableDataGatewayConnectionString is 32.
+Long Statement,WeText.Services.Texting,TextingController,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\Services\WeText.Services.Texting\TextingController.cs,GetAllTextsForUser,The length of the statement  "            return Ok((await this.TableDataGateway.SelectAsync<TextTableObject>(specification)).OrderByDescending(v=>v.DateCreated)); " is 121.

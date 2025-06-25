@@ -1,0 +1,2 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Long Identifier,WeText.Services.Accounts,AccountServiceRegister,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\Services\WeText.Services.Accounts\AccountServiceRegister.cs,,The length of the parameter tableDataGatewayConnectionString is 32.
