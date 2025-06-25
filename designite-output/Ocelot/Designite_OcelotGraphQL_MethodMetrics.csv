@@ -1,0 +1,5 @@
+Namespace,Type,Method,LOC,CC,PC
+OcelotGraphQL,Query,GetHero,3,1,1
+OcelotGraphQL,GraphQlDelegatingHandler,GraphQlDelegatingHandler,4,1,2
+OcelotGraphQL,GraphQlDelegatingHandler,SendAsync,25,2,2
+OcelotGraphQL,Program,Main,44,1,0

@@ -1,0 +1,6 @@
+Namespace,Type,Method,LOC,CC,PC
+Ocelot.Tracing.Butterfly,ButterflyTracer,ButterflyTracer,3,1,1
+Ocelot.Tracing.Butterfly,ButterflyTracer,Event,25,4,2
+Ocelot.Tracing.Butterfly,ButterflyTracer,SendAsync,3,1,4
+Ocelot.Tracing.Butterfly,ButterflyTracer,TracingSendAsync,34,2,5
+Ocelot.Tracing.Butterfly,OcelotBuilderExtensions,AddButterfly,5,1,2

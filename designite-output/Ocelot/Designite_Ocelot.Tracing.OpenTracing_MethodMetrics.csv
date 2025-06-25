@@ -1,0 +1,5 @@
+Namespace,Type,Method,LOC,CC,PC
+Ocelot.Tracing.OpenTracing,OcelotBuilderExtensions,AddOpenTracing,4,1,1
+Ocelot.Tracing.OpenTracing,OpenTracingTracer,OpenTracingTracer,3,1,1
+Ocelot.Tracing.OpenTracing,OpenTracingTracer,Event,2,1,2
+Ocelot.Tracing.OpenTracing,OpenTracingTracer,SendAsync,42,2,4
