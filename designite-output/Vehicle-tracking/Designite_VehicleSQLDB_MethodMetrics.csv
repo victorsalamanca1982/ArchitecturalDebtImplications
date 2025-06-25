@@ -1,0 +1,10 @@
+Namespace,Type,Method,LOC,CC,PC
+VehicleSQLDB.DbModels,Vehicle,Vehicle,2,1,0
+VehicleSQLDB.DbModels,Vehicle,Vehicle,11,1,1
+VehicleSQLDB.DbModels,VehicleDbContext,VehicleDbContext,1,1,1
+VehicleSQLDB,ICommandVehicleDB,Add,0,1,1
+VehicleSQLDB,IQueryVehicleDB,Query,0,1,1
+VehicleSQLDB,VehicleManager,VehicleManager,2,1,0
+VehicleSQLDB,VehicleManager,VehicleManager,4,1,2
+VehicleSQLDB,VehicleManager,Add,4,1,1
+VehicleSQLDB,VehicleManager,Query,8,1,1

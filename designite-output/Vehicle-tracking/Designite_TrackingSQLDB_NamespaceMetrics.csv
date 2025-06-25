@@ -1,0 +1,3 @@
+Project,Namespace,Ca types,Ce types
+TrackingSQLDB,TrackingSQLDB.DbModels,TrackingSQLDB.TrackingManager' Tracking.Startup,DomainModels.Business.StatusModel' DomainModels.Business.TrackingDomain.Tracking
+TrackingSQLDB,TrackingSQLDB,Tracking.Startup,DomainModels.System.IFilter' DomainModels.System.Identifiers' TrackingSQLDB.DbModels.Tracking' TrackingSQLDB.DbModels.TrackingDbContext

@@ -1,0 +1,6 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+VehicleSQLDB.DbModels,Vehicle,0,2,9,0,2,32,2,0,0,-1,1,3,DomainModels.Business.VehicleDomain.Vehicle,VehicleSQLDB.DbModels.VehicleDbContext' VehicleSQLDB.VehicleManager' Vehicle.Startup
+VehicleSQLDB.DbModels,VehicleDbContext,0,1,1,0,1,7,1,0,0,-1,1,2,VehicleSQLDB.DbModels.Vehicle,VehicleSQLDB.VehicleManager' Vehicle.Startup
+VehicleSQLDB,ICommandVehicleDB,0,1,0,0,0,5,1,1,0,-1,0,1,,VehicleSQLDB.VehicleManager
+VehicleSQLDB,IQueryVehicleDB,0,1,0,0,0,5,1,1,0,-1,0,1,,VehicleSQLDB.VehicleManager
+VehicleSQLDB,VehicleManager,2,4,2,0,4,38,4,0,1,0,5,5,1,DomainModels.System.Identifiers' VehicleSQLDB.DbModels.Vehicle' VehicleSQLDB.DbModels.VehicleDbContext' VehicleSQLDB.ICommandVehicleDB' VehicleSQLDB.IQueryVehicleDB,Vehicle.Startup
