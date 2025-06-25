@@ -1,0 +1,2 @@
+Testability smell,Namespace,Class,File,Cause
+Hard-wired Dependency,Ocelot.Benchmarks,DictionaryBenchmarks,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\test\Ocelot.Benchmarks\DictionaryBenchmarks.cs,The tool detected the smell in this class because the class creates objects of concrete classes and uses them. Following concrete classes are instantiated and used: Ocelot.Configuration.Builder.DownstreamRouteBuilder

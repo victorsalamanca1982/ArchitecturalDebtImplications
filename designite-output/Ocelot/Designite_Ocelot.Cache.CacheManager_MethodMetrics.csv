@@ -1,0 +1,7 @@
+Namespace,Type,Method,LOC,CC,PC
+Ocelot.Cache.CacheManager,OcelotBuilderExtensions,AddCacheManager,28,1,2
+Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,OcelotCacheManagerCache,3,1,1
+Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,Add,3,1,4
+Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,AddAndDelete,10,2,4
+Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,Get,3,1,2
+Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,ClearRegion,3,1,1

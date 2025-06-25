@@ -1,0 +1,10 @@
+Namespace,Type,Method,LOC,CC,PC
+Ocelot.Administration,IdentityServerConfiguration,IdentityServerConfiguration,8,1,6
+Ocelot.Administration,IdentityServerConfigurationCreator,GetIdentityServerConfiguration,13,1,1
+Ocelot.Administration,OcelotBuilderExtensions,AddAdministration,16,2,3
+Ocelot.Administration,OcelotBuilderExtensions,AddAdministration,12,2,3
+Ocelot.Administration,OcelotBuilderExtensions,AddIdentityServer,5,1,2
+Ocelot.Administration,OcelotBuilderExtensions,AddIdentityServer,41,2,4
+Ocelot.Administration,OcelotBuilderExtensions,ApiScopes,3,1,1
+Ocelot.Administration,OcelotBuilderExtensions,Resources,15,1,1
+Ocelot.Administration,OcelotBuilderExtensions,Client,12,1,1

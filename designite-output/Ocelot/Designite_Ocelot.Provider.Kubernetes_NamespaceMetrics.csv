@@ -1,0 +1,3 @@
+Project,Namespace,Ca types,Ce types
+Ocelot.Provider.Kubernetes,Ocelot.Provider.Kubernetes.KubeApiClientExtensions,Ocelot.Provider.Kubernetes.KubernetesServiceDiscoveryProvider,
+Ocelot.Provider.Kubernetes,Ocelot.Provider.Kubernetes,Ocelot.UnitTests.Kubernetes.KubeServiceDiscoveryProviderTests' Ocelot.UnitTests.Kubernetes.PollingKubeServiceDiscoveryProviderTests,Ocelot.Provider.Kubernetes.KubeApiClientExtensions.EndPointClientV1' Ocelot.Logging.IOcelotLogger' Ocelot.Logging.IOcelotLoggerFactory' Ocelot.ServiceDiscovery.Providers.IServiceDiscoveryProvider' Ocelot.Values.Service' Ocelot.Values.ServiceHostAndPort' Ocelot.Configuration.DownstreamRoute' Ocelot.Configuration.ServiceProviderConfiguration' Ocelot.DependencyInjection.IOcelotBuilder

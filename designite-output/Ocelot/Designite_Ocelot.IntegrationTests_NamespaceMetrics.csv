@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+Ocelot.IntegrationTests,Ocelot.IntegrationTests,,Ocelot.Cache.Regions' Ocelot.Configuration.ChangeTracking.IOcelotConfigurationChangeTokenSource' Ocelot.Configuration.File.FileCacheOptions' Ocelot.Configuration.File.FileConfiguration' Ocelot.Configuration.File.FileGlobalConfiguration' Ocelot.Configuration.File.FileHostAndPort' Ocelot.Configuration.File.FileRoute' Ocelot.Configuration.File.FileServiceDiscoveryProvider' Ocelot.Configuration.File.FileHttpHandlerOptions
