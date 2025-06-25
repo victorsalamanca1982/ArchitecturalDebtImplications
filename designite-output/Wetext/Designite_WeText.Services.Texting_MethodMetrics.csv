@@ -1,0 +1,15 @@
+Namespace,Type,Method,LOC,CC,PC
+WeText.Services.Texting,TextingController,TextingController,2,1,3
+WeText.Services.Texting,TextingController,GetSystemInformation,10,1,0
+WeText.Services.Texting,TextingController,CreateText,13,1,1
+WeText.Services.Texting,TextingController,GetAllTextsForUser,4,1,1
+WeText.Services.Texting,TextingController,GetText,4,1,1
+WeText.Services.Texting,TextingController,UpdateText,12,1,2
+WeText.Services.Texting,TextingCommandHandler,TextingCommandHandler,3,1,1
+WeText.Services.Texting,TextingCommandHandler,HandleAsync,21,4,1
+WeText.Services.Texting,TextingCommandHandler,HandleAsync,4,1,1
+WeText.Services.Texting,TextingEventHandler,TextingEventHandler,3,1,1
+WeText.Services.Texting,TextingEventHandler,HandleAsync,11,1,1
+WeText.Services.Texting,TextingEventHandler,HandleAsync,18,4,1
+WeText.Services.Texting,TextingService,TextingService,2,1,2
+WeText.Services.Texting,TextingServiceRegister,TextingServiceRegister,7,2,1

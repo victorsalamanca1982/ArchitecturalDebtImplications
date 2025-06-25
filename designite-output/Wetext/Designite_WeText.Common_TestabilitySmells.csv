@@ -1,0 +1,3 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,WeText.Common,Utils,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\WeText.Common\Utils.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Global State,WeText.Common.Specifications,ExpressionFuncExtender,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\WeText.Common\Specifications\ExpressionFuncExtender.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

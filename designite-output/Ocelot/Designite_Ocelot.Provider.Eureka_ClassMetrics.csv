@@ -1,0 +1,5 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+Ocelot.Provider.Eureka,Eureka,2,2,0,0,2,20,3,0,1,0,3,3,Ocelot.ServiceDiscovery.Providers.IServiceDiscoveryProvider' Ocelot.Values.Service' Ocelot.Values.ServiceHostAndPort,Ocelot.UnitTests.Eureka.EurekaServiceDiscoveryProviderTests' Ocelot.UnitTests.Eureka.EurekaProviderFactoryTests' Ocelot.Provider.Eureka.EurekaProviderFactory
+Ocelot.Provider.Eureka,EurekaMiddlewareConfigurationProvider,1,1,0,1,0,21,1,0,0,0,2,2,Ocelot.Configuration.IInternalConfiguration' Ocelot.Configuration.Repository.IInternalConfigurationRepository,Ocelot.Provider.Eureka.OcelotBuilderExtensions' Ocelot.UnitTests.Eureka.EurekaMiddlewareConfigurationProviderTests
+Ocelot.Provider.Eureka,EurekaProviderFactory,1,0,0,1,0,14,0,0,0,-1,1,2,Ocelot.Provider.Eureka.Eureka,Ocelot.Provider.Eureka.OcelotBuilderExtensions' Ocelot.UnitTests.Eureka.EurekaProviderFactoryTests
+Ocelot.Provider.Eureka,OcelotBuilderExtensions,0,1,0,0,1,10,1,0,0,-1,3,0,Ocelot.Provider.Eureka.EurekaMiddlewareConfigurationProvider' Ocelot.Provider.Eureka.EurekaProviderFactory' Ocelot.DependencyInjection.IOcelotBuilder,

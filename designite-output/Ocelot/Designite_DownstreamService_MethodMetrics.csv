@@ -1,0 +1,7 @@
+Namespace,Type,Method,LOC,CC,PC
+DownstreamService.Controllers,CategoryController,Get,3,1,0
+DownstreamService,Program,Main,3,1,1
+DownstreamService,Program,BuildWebHost,0,1,1
+DownstreamService,Startup,Startup,3,1,1
+DownstreamService,Startup,ConfigureServices,4,1,1
+DownstreamService,Startup,Configure,9,2,2

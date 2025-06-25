@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+Ocelot.Provider.Polly,Ocelot.Provider.Polly,Ocelot.UnitTests.Polly.PollyQoSProviderTests,Ocelot.Configuration.DownstreamRoute' Ocelot.DependencyInjection.IOcelotBuilder' Ocelot.Errors.Error' Ocelot.Logging.IOcelotLoggerFactory' Ocelot.Logging.IOcelotLogger' Ocelot.Errors.OcelotErrorCode

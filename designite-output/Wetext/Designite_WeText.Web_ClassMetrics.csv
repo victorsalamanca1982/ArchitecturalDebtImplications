@@ -1,0 +1,38 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+WeText.Web,BundleConfig,0,1,0,0,1,21,1,0,0,-1,0,1,,WeText.Web.MvcApplication
+WeText.Web,FilterConfig,0,1,0,0,1,7,1,0,0,-1,0,1,,WeText.Web.MvcApplication
+WeText.Web,EmailService,0,1,0,0,1,8,1,0,0,-1,0,0,,
+WeText.Web,SmsService,0,1,0,0,1,8,1,0,0,-1,0,0,,
+WeText.Web,RouteConfig,0,1,0,0,1,12,1,0,0,-1,0,1,,WeText.Web.MvcApplication
+WeText.Web,Startup,0,2,0,0,2,54,2,0,0,-1,3,0,WeText.Web.Models.ApplicationSignInManager' WeText.Web.Models.ApplicationUser' WeText.Web.Models.ApplicationUserManager,
+WeText.Web,MvcApplication,0,1,0,0,0,10,1,0,0,-1,3,0,WeText.Web.BundleConfig' WeText.Web.FilterConfig' WeText.Web.RouteConfig,
+WeText.Web.Controllers,AccountController,3,25,3,0,22,450,58,0,0,0,84,11,0,WeText.Web.Controllers.ChallengeResult' WeText.Web.Models.ExternalLoginConfirmationViewModel' WeText.Web.Models.SendCodeViewModel' WeText.Web.Models.VerifyCodeViewModel' WeText.Web.Models.LoginViewModel' WeText.Web.Models.RegisterViewModel' WeText.Web.Models.ResetPasswordViewModel' WeText.Web.Models.ForgotPasswordViewModel' WeText.Web.Models.ApplicationSignInManager' WeText.Web.Models.ApplicationUser' WeText.Web.Models.ApplicationUserManager,
+WeText.Web.Controllers,ChallengeResult,0,3,3,0,3,25,4,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Controllers,HomeController,0,3,0,0,3,22,4,0,0,-1,0,0,,
+WeText.Web.Controllers,ManageController,2,6,2,0,4,113,10,0,0,0,83,4,0,WeText.Web.Controllers.ManageMessageId' WeText.Web.Models.ApplicationSignInManager' WeText.Web.Models.ApplicationUserManager' WeText.Web.Models.IndexViewModel,
+WeText.Web.Controllers,ManageMessageId,0,0,0,0,0,11,0,0,0,-1,0,1,,WeText.Web.Controllers.ManageController
+WeText.Web.Controllers,MyFriendController,1,3,0,0,3,130,10,0,0,0,4,0,WeText.Web.Models.ConfigReader' WeText.Web.Models.MyFriendViewModel' WeText.Web.Models.InvitationViewModel' WeText.Web.Models.ServiceProxy,
+WeText.Web.Controllers,MyTextController,1,6,0,0,6,85,6,0,0,0,33,5,0,WeText.Web.Models.ConfigReader' WeText.Web.Models.CreateTextViewModel' WeText.Web.Models.EditTextViewModel' WeText.Web.Models.ServiceProxy' WeText.Web.Models.TextViewModel,
+WeText.Web.Models,ExternalLoginConfirmationViewModel,0,0,1,0,0,6,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,ExternalLoginListViewModel,0,0,1,0,0,4,0,0,0,-1,0,0,,
+WeText.Web.Models,SendCodeViewModel,0,0,4,0,0,7,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,VerifyCodeViewModel,0,0,5,0,0,12,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,ForgotViewModel,0,0,1,0,0,6,0,0,0,-1,0,0,,
+WeText.Web.Models,LoginViewModel,0,0,3,0,0,12,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,RegisterViewModel,0,0,5,0,0,21,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,ResetPasswordViewModel,0,0,4,0,0,17,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,ForgotPasswordViewModel,0,0,1,0,0,7,0,0,0,-1,0,1,,WeText.Web.Controllers.AccountController
+WeText.Web.Models,ApplicationPasswordHasher,0,2,0,0,2,15,2,0,0,-1,0,1,,WeText.Web.Models.ApplicationUserManager
+WeText.Web.Models,ApplicationSignInManager,0,4,0,0,4,20,4,0,0,-1,2,3,WeText.Web.Models.ApplicationUser' WeText.Web.Models.ApplicationUserManager,WeText.Web.Controllers.ManageController' WeText.Web.Controllers.AccountController' WeText.Web.Startup
+WeText.Web.Models,ApplicationUser,0,2,5,0,2,53,2,0,0,-1,0,6,,WeText.Web.Startup' WeText.Web.Models.ApplicationSignInManager' WeText.Web.Models.IWebApiUserStore' WeText.Web.Models.ApplicationUserManager' WeText.Web.Models.WebApiUserStore' WeText.Web.Controllers.AccountController
+WeText.Web.Models,ApplicationUserManager,1,5,11,0,5,132,8,0,0,0,6,5,4,WeText.Web.Models.ApplicationPasswordHasher' WeText.Web.Models.ApplicationUser' WeText.Web.Models.ConfigReader' WeText.Web.Models.IWebApiUserStore' WeText.Web.Models.WebApiUserStore,WeText.Web.Startup' WeText.Web.Controllers.ManageController' WeText.Web.Models.ApplicationSignInManager' WeText.Web.Controllers.AccountController
+WeText.Web.Models,ConfigReader,1,1,1,0,0,11,1,0,0,0,0,3,,WeText.Web.Controllers.MyTextController' WeText.Web.Controllers.MyFriendController' WeText.Web.Models.ApplicationUserManager
+WeText.Web.Models,CreateTextViewModel,0,0,2,0,0,9,0,0,0,-1,0,1,,WeText.Web.Controllers.MyTextController
+WeText.Web.Models,EditTextViewModel,0,0,3,0,0,10,0,0,0,-1,0,1,,WeText.Web.Controllers.MyTextController
+WeText.Web.Models,IWebApiUserStore,0,1,0,0,0,9,1,1,0,-1,1,2,WeText.Web.Models.ApplicationUser,WeText.Web.Models.WebApiUserStore' WeText.Web.Models.ApplicationUserManager
+WeText.Web.Models,IndexViewModel,0,0,2,0,0,11,0,0,0,-1,0,1,,WeText.Web.Controllers.ManageController
+WeText.Web.Models,MyFriendViewModel,0,1,5,0,1,14,1,0,0,-1,1,1,WeText.Web.Models.InvitationViewModel,WeText.Web.Controllers.MyFriendController
+WeText.Web.Models,InvitationViewModel,0,0,6,0,0,14,0,0,0,-1,0,2,,WeText.Web.Models.MyFriendViewModel' WeText.Web.Controllers.MyFriendController
+WeText.Web.Models,ServiceProxy,0,2,1,0,1,15,2,0,0,-1,0,3,,WeText.Web.Controllers.MyTextController' WeText.Web.Controllers.MyFriendController' WeText.Web.Models.WebApiUserStore
+WeText.Web.Models,TextViewModel,0,0,5,0,0,9,0,0,0,-1,0,1,,WeText.Web.Controllers.MyTextController
+WeText.Web.Models,WebApiUserStore,1,33,0,0,32,308,38,0,1,0,73,4,1,WeText.Common.DisposableObject' WeText.Web.Models.ApplicationUser' WeText.Web.Models.IWebApiUserStore' WeText.Web.Models.ServiceProxy,WeText.Web.Models.ApplicationUserManager

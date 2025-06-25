@@ -1,0 +1,3 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,Gigya.Microdot.LanguageExtensions,MiscExtensions,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\microdot-develop\microdot-develop\Gigya.Microdot.LanguageExtensions\MiscExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Global State,Gigya.Microdot.LanguageExtensions,StringExtensions,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\microdot-develop\microdot-develop\Gigya.Microdot.LanguageExtensions\StringExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

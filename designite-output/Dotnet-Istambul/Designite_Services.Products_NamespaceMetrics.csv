@@ -1,0 +1,8 @@
+Project,Namespace,Ca types,Ce types
+Services.Products,Services.Products.Controllers,,Services.Customers.Data.ProductDBContext
+Services.Products,Services.Products.Data,Services.Customers.Data.ProductDBContext' Services.Products.Startup,Shared.Models.BaseEntity' Services.Customers.Data.ProductDBContext
+Services.Products,Services.Products.Data.Migrations,,Services.Customers.Data.ProductDBContext
+Services.Products,Services.Customers.Data,Services.Products.Data.Migrations.ProductDBContextModelSnapshot' Services.Products.Controllers.ProductController' Services.Products.Handlers.OrderCreatedHandler' Services.Products.Data.SeedData' Services.Products.Startup,Services.Products.Data.Product
+Services.Products,Services.Products.Events,Services.Products.Handlers.OrderCreatedHandler' Services.Products.Startup,Shared.Messages.IEvent' Shared.Messages.MessageNamespaceAttribute
+Services.Products,Services.Products.Handlers,,Shared.MessageHandlers.IEventHandler' Shared.RabbitMq.IBusPublisher' Shared.RabbitMq.ICorrelationContext' Services.Customers.Data.ProductDBContext' Services.Products.Events.OrderCreated' Services.Products.Events.ProductsReserved' Services.Products.Events.ProductsReserveFailed
+Services.Products,Services.Products,,Services.Products.Data.SeedData' Services.Customers.Data.ProductDBContext' Services.Products.Events.OrderCreated

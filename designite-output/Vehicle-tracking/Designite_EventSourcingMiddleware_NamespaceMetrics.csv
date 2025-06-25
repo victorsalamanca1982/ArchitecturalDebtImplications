@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+EventSourcingMiddleware,EventSourcingMiddleware,,DomainModels.System.Identifiers' BackgroundMiddleware.RabbitMQSubscriberWorker' DomainModels.DataStructure.RabbitMQConfiguration' DomainModels.System.MiddlewareConfiguration' DomainModels.System.ServiceConfiguration' DomainModels.Types.DomainModel<Model>' EventSourceingSQLDB.DbModels.DbModelFactory' EventSourceingSQLDB.DbModels.EventSourcingDbContext' EventSourceingSQLDB.Repository.EventSourcingLedger

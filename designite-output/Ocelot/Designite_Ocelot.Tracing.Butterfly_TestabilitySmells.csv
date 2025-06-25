@@ -1,0 +1,2 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,Ocelot.Tracing.Butterfly,OcelotBuilderExtensions,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Tracing.Butterfly\OcelotBuilderExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

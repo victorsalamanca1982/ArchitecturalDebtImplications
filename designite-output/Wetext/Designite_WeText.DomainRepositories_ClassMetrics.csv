@@ -1,0 +1,4 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+WeText.DomainRepositories,InMemoryDomainRepository,1,3,0,0,1,21,3,0,2,0,67,2,0,WeText.Common.Messaging.IMessagePublisher' WeText.Common.Repositories.DomainRepository,
+WeText.DomainRepositories,MongoDomainRepository,3,4,0,0,1,40,5,0,2,0,5,4,1,WeText.Common.IAggregateRoot' WeText.Common.Messaging.IMessagePublisher' WeText.Common.Repositories.DomainRepository' WeText.DomainRepositories.MongoSetting,WeText.Service.WeTextService
+WeText.DomainRepositories,MongoSetting,0,0,3,0,0,6,0,0,0,-1,0,2,,WeText.DomainRepositories.MongoDomainRepository' WeText.Service.WeTextService

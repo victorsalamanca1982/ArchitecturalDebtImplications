@@ -1,0 +1,6 @@
+Namespace,Type,Method,LOC,CC,PC
+WeText.Querying.MySqlClient,MySqlTableDataGateway,MySqlTableDataGateway,3,1,1
+WeText.Querying.MySqlClient,MySqlTableDataGateway,CreateCommand,3,1,2
+WeText.Querying.MySqlClient,MySqlTableDataGateway,CreateDatabaseConnection,3,1,0
+WeText.Querying.MySqlClient,MySqlTableDataGateway,CreateParameter,3,1,0
+WeText.Querying.MySqlClient,MySqlTableDataGateway,CreateWhereClauseBuilder,3,1,0

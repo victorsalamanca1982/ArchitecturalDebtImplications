@@ -1,0 +1,8 @@
+Namespace,Type,Method,LOC,CC,PC
+EventSourceingSQLDBTests,PingTest,PingTest,9,1,0
+EventSourceingSQLDBTests,PingTest,SetUp,8,1,0
+EventSourceingSQLDBTests,PingTest,TestAddPingEventSourcing,4,1,0
+EventSourceingSQLDBTests,PingTest,TestAddPingSourcingVerifyMessageExecId,7,1,0
+EventSourceingSQLDBTests,PingTest,TestAddPingEventSourcingVerifyMessageBody,9,1,0
+EventSourceingSQLDBTests,PingTest,TestQueryPingEventSourcing,18,1,0
+EventSourceingSQLDBTests,PingTest,TestQueryPingEventSourcingFullMessage,22,1,0

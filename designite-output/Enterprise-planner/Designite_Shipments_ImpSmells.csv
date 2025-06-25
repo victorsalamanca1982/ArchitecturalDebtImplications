@@ -1,0 +1,2 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Magic Number,Shipments,Startup,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\EnterprisePlanner-master\EnterprisePlanner-master\Shipments\Startup.cs,Configure,The following statement contains a magic number: app.UseExceptionHandler(appBuilder =>              {                  appBuilder.Run(async context =>                  {                      context.Response.StatusCode = 500;                      await context.Response.WriteAsync("A server error occured.");                  });              });

@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+WeText.Querying.MySqlClient,WeText.Querying.MySqlClient,WeText.Services.Texting.TextingServiceRegister' WeText.Services.Accounts.AccountServiceRegister' WeText.Services.Social.SocialServiceRegister,WeText.Common.Querying.TableDataGateway' WeText.Common.Querying.WhereClauseBuilder<TTableObject>

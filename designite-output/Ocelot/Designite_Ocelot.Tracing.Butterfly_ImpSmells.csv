@@ -1,0 +1,3 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Long Parameter List,Ocelot.Tracing.Butterfly,ButterflyTracer,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Tracing.Butterfly\ButterflyTracer.cs,TracingSendAsync,The method has 5 parameters. Parameters: span' request' cancellationToken' addTraceIdToRepo' baseSendAsync
+Long Statement,Ocelot.Tracing.Butterfly,ButterflyTracer,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Tracing.Butterfly\ButterflyTracer.cs,SendAsync,The length of the statement  "            return _tracer.ChildTraceAsync($"httpclient {request.Method}"' DateTimeOffset.UtcNow' span => TracingSendAsync(span' request' cancellationToken' addTraceIdToRepo' baseSendAsync));" is 179.

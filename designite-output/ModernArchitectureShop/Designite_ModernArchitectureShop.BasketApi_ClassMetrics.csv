@@ -1,0 +1,5 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+ModernArchitectureShop.BasketApi.Controllers,ItemController,0,2,0,0,2,19,2,0,0,-1,2,0,ModernArchitectureShop.Basket.Infrastructure.UseCases.AddItem.AddItemCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.DeleteItem.DeleteItemCommand,
+ModernArchitectureShop.BasketApi.Controllers,ItemsController,0,3,0,0,3,26,3,0,0,-1,3,0,ModernArchitectureShop.Basket.Infrastructure.UseCases.GetBasketTotalPrice.GetBasketTotalPriceCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.GetItemsPage.GetItemsPageCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.GetItems.GetItemsCommand,
+ModernArchitectureShop.BasketApi,Program,0,2,0,0,2,33,2,0,0,-1,2,0,ModernArchitectureShop.BasketApi.Startup' ModernArchitectureShop.Basket.Application.Persistence.IItemRepository,
+ModernArchitectureShop.BasketApi,Startup,0,3,1,0,3,83,4,0,0,-1,0,1,,ModernArchitectureShop.BasketApi.Program

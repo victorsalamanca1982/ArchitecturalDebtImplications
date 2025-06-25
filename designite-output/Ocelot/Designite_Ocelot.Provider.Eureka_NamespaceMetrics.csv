@@ -1,0 +1,2 @@
+Project,Namespace,Ca types,Ce types
+Ocelot.Provider.Eureka,Ocelot.Provider.Eureka,Ocelot.UnitTests.Eureka.EurekaServiceDiscoveryProviderTests' Ocelot.UnitTests.Eureka.EurekaProviderFactoryTests' Ocelot.UnitTests.Eureka.EurekaMiddlewareConfigurationProviderTests,Ocelot.ServiceDiscovery.Providers.IServiceDiscoveryProvider' Ocelot.Values.Service' Ocelot.Values.ServiceHostAndPort' Ocelot.Configuration.IInternalConfiguration' Ocelot.Configuration.Repository.IInternalConfigurationRepository' Ocelot.DependencyInjection.IOcelotBuilder

@@ -1,0 +1,12 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+MediatR.Benchmarks,Benchmarks,3,3,0,0,3,37,3,0,0,0,4,0,MediatR.Benchmarks.DotTraceDiagnoser' MediatR.Benchmarks.GenericPipelineBehavior<TRequest;TResponse>' MediatR.Benchmarks.Ping' MediatR.Benchmarks.Pinged,
+MediatR.Benchmarks,DotTraceDiagnoserAttribute,0,1,1,0,1,11,1,0,0,-1,1,0,MediatR.Benchmarks.DotTraceDiagnoser,
+MediatR.Benchmarks,DotTraceDiagnoser,2,9,3,0,6,112,11,0,0,0,56,0,2,,MediatR.Benchmarks.Benchmarks' MediatR.Benchmarks.DotTraceDiagnoserAttribute
+MediatR.Benchmarks,GenericPipelineBehavior<TRequest;TResponse>,1,2,0,0,2,18,2,0,0,0,0,1,,MediatR.Benchmarks.Benchmarks
+MediatR.Benchmarks,GenericRequestPostProcessor<TRequest;TResponse>,1,2,0,0,2,15,2,0,0,0,0,0,,
+MediatR.Benchmarks,GenericRequestPreProcessor<TRequest>,1,2,0,0,2,15,2,0,0,0,0,0,,
+MediatR.Benchmarks,Ping,0,0,1,0,0,4,0,0,0,-1,0,2,,MediatR.Benchmarks.PingHandler' MediatR.Benchmarks.Benchmarks
+MediatR.Benchmarks,PingHandler,0,1,0,0,1,4,1,0,0,-1,1,0,MediatR.Benchmarks.Ping,
+MediatR.Benchmarks,Pinged,0,0,0,0,0,3,0,0,0,-1,0,2,,MediatR.Benchmarks.PingedHandler' MediatR.Benchmarks.Benchmarks
+MediatR.Benchmarks,PingedHandler,0,1,0,0,1,7,1,0,0,-1,1,0,MediatR.Benchmarks.Pinged,
+MediatR.Benchmarks,Program,0,1,0,0,1,4,1,0,0,-1,0,0,,

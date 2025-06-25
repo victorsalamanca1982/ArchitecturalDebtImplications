@@ -1,0 +1,2 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,DomainModels.Types.Exceptions,ExceptionCodesHelper,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\vehicle-tracking-microservices-master\vehicle-tracking-microservices-master\vehicle-tracking-poc\DomainModels\Types\Exceptions\ExceptionCodes.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

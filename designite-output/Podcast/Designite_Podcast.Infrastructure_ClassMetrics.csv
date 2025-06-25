@@ -1,0 +1,4 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+Podcast.Infrastructure.Data.Migrations,InitialCreate,0,3,0,0,0,782,3,0,0,-1,0,0,,
+Podcast.Infrastructure.Data.Migrations,feedapproval,0,3,0,0,0,609,3,0,0,-1,0,0,,
+Podcast.Infrastructure.Data.Migrations,PodcastDbContextModelSnapshot,0,1,0,0,0,583,1,0,0,-1,0,0,,

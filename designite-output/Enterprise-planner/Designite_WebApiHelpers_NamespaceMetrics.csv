@@ -1,0 +1,4 @@
+Project,Namespace,Ca types,Ce types
+WebApiHelpers,WebApiHelpers.Formatters,API_Gateway.Startup' Customers.Startup' Orders.Startup' Shipments.Startup,
+WebApiHelpers,WebApiHelpers.ObjectResults,API_Gateway.Controllers.ShipmentsController' API_Gateway.Controllers.CustomersController' Customers.Controllers.CustomersController' API_Gateway.Controllers.OrdersController' Shipments.Controllers.ShipmentsController' Orders.Controllers.OrdersController,
+WebApiHelpers,WebApiHelpers,,

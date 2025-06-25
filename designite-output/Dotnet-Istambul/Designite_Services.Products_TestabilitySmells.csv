@@ -1,0 +1,2 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,Services.Products.Data,SeedData,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Services.Products\src\Services.Products\Data\SeedData.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

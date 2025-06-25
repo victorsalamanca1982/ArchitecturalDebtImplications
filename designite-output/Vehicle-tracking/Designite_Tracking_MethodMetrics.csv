@@ -1,0 +1,13 @@
+Namespace,Type,Method,LOC,CC,PC
+Tracking.Controllers.Mediator,TrackingRequest,TrackingRequest,9,1,7
+Tracking.Controllers.Mediator,TrackingRequestHandler,TrackingRequestHandler,3,1,1
+Tracking.Controllers.Mediator,TrackingRequestHandler,Handle,30,1,2
+Tracking.Controllers,TrackingController,TrackingController,9,1,6
+Tracking.Controllers,TrackingController,Get,3,1,2
+Tracking.Controllers,TrackingController,Get,21,1,4
+Tracking.Models,TrackingResponse,TrackingResponse,10,1,1
+Tracking,Program,Main,43,1,1
+Tracking,Program,BuildWebHost,0,1,1
+Tracking,Startup,Startup,27,1,3
+Tracking,Startup,ConfigureServices,226,1,1
+Tracking,Startup,Configure,27,2,2

@@ -1,0 +1,4 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,Ocelot.Provider.Kubernetes,KubernetesProviderFactory,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Provider.Kubernetes\KubernetesProviderFactory.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.
+Global State,Ocelot.Provider.Kubernetes,KubernetesProviderFactory,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Provider.Kubernetes\KubernetesProviderFactory.cs,The tool detected the smell in this class because the class declares global variables. The detected global variables are: Get
+Global State,Ocelot.Provider.Kubernetes,OcelotBuilderExtensions,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Provider.Kubernetes\OcelotBuilderExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

@@ -1,0 +1,8 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,0,8,0,0,0,18,8,1,0,-1,1,6,ModernArchitectureShop.Order.Domain.Order,ModernArchitectureShop.Order.Infrastructure.Persistence.OrderRepository' ModernArchitectureShop.Order.Infrastructure.ServiceCollection.DatabaseExtensions' ModernArchitectureShop.Order.Infrastructure.UseCases.GetCompletedOrders.GetCompletedOrdersHandler' ModernArchitectureShop.Order.Infrastructure.UseCases.AddOrder.PlaceOrderHandler' ModernArchitectureShop.OrderApi.Program' ModernArchitectureShop.Order.Infrastructure.ServiceCollection.ServiceCollectionExtensions
+ModernArchitectureShop.Order.Application.UseCases.AddOrder,IAddOrder,0,0,0,0,0,3,0,0,0,-1,0,0,,
+ModernArchitectureShop.Order.Application.UseCases.EmailNotify,IEmailNotify,0,0,0,0,0,3,0,0,0,-1,0,0,,
+ModernArchitectureShop.Order.Application.UseCases.GetOrder,IGetCompletedOrders,0,0,1,0,0,4,0,1,0,-1,0,1,,ModernArchitectureShop.Order.Infrastructure.UseCases.GetCompletedOrders.GetCompletedOrdersCommand
+ModernArchitectureShop.Order.Application.UseCases.GetOrder,IGetOrder,0,0,0,0,0,3,0,0,0,-1,0,0,,
+ModernArchitectureShop.Order.Application.UseCases.OrderManagement,IPlaceOrder,0,0,3,0,0,6,0,1,0,-1,1,1,ModernArchitectureShop.Order.Domain.Item,ModernArchitectureShop.Order.Infrastructure.UseCases.AddOrder.PlaceOrderCommand
+ModernArchitectureShop.Order.Application.UseCases.RemoveOrder,IRemoveOrder,0,0,0,0,0,3,0,0,0,-1,0,0,,

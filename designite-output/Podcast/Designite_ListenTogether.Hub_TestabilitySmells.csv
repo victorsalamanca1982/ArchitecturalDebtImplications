@@ -1,0 +1,2 @@
+Testability smell,Namespace,Class,File,Cause
+Global State,ListenTogether.Hub,OrleansExtensions,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-podcasts-main\dotnet-podcasts-main\src\Services\ListenTogether\ListenTogether.Hub\OrleansExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.
