@@ -1,0 +1,4 @@
+Namespace,Type,Method,LOC,CC,PC
+Shopping.Web.Pages,ConfirmationModel,OnGetContact,3,1,0
+Shopping.Web.Pages,ConfirmationModel,OnGetOrderSubmitted,3,1,0
+Shopping.Web.Pages,ContactModel,OnGet,2,1,0

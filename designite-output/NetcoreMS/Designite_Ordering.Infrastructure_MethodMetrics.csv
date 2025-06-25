@@ -1,0 +1,5 @@
+Namespace,Type,Method,LOC,CC,PC
+Ordering.Infrastructure.Data.Migrations,InitialCreate,Up,131,1,1
+Ordering.Infrastructure.Data.Migrations,InitialCreate,Down,13,1,1
+Ordering.Infrastructure.Data.Migrations,InitialCreate,BuildTargetModel,293,1,1
+Ordering.Infrastructure.Data.Migrations,ApplicationDbContextModelSnapshot,BuildModel,293,1,1

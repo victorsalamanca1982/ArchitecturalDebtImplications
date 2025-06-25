@@ -1,0 +1,5 @@
+Namespace,Type,Method,LOC,CC,PC
+Discount.Grpc.Migrations,InitialCreate,Up,25,1,1
+Discount.Grpc.Migrations,InitialCreate,Down,4,1,1
+Discount.Grpc.Migrations,InitialCreate,BuildTargetModel,43,1,1
+Discount.Grpc.Migrations,DiscountContextModelSnapshot,BuildModel,43,1,1
