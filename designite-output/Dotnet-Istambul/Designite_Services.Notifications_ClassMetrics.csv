@@ -1,0 +1,8 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+Services.Notifications.Controllers,HomeController,0,1,0,0,1,10,1,0,0,-1,0,0,,
+Services.Notifications.Events,OrderCompleted,0,1,1,0,1,10,1,0,1,-1,2,2,Shared.Messages.IEvent' Shared.Messages.MessageNamespaceAttribute,Services.Notifications.Handlers.OrderCompletedHandler' Services.Notifications.Startup
+Services.Notifications.Events,OrderFailed,0,1,1,0,1,9,1,0,1,-1,1,2,Shared.Messages.IEvent,Services.Notifications.Startup' Services.Notifications.Handlers.OrderFailedHandler
+Services.Notifications.Handlers,OrderCompletedHandler,1,2,0,0,2,14,2,0,1,0,3,0,Shared.MessageHandlers.IEventHandler' Shared.RabbitMq.ICorrelationContext' Services.Notifications.Events.OrderCompleted,
+Services.Notifications.Handlers,OrderFailedHandler,1,2,0,0,2,14,2,0,1,0,3,0,Shared.MessageHandlers.IEventHandler' Shared.RabbitMq.ICorrelationContext' Services.Notifications.Events.OrderFailed,
+Services.Notifications,Program,0,2,0,0,2,12,2,0,0,-1,1,0,Services.Notifications.Startup,
+Services.Notifications,Startup,0,3,1,0,3,31,4,0,0,-1,2,1,Services.Notifications.Events.OrderCompleted' Services.Notifications.Events.OrderFailed,Services.Notifications.Program
