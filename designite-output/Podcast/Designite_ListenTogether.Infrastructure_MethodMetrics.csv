@@ -1,0 +1,6 @@
+Namespace,Type,Method,LOC,CC,PC
+ListenTogether.Hub.Infrastructure.Data.Migrations,InitialCreate,Up,95,1,1
+ListenTogether.Hub.Infrastructure.Data.Migrations,InitialCreate,Down,13,1,1
+ListenTogether.Hub.Infrastructure.Data.Migrations,InitialCreate,BuildTargetModel,154,1,1
+ListenTogether.Hub.Infrastructure.Data.Migrations,ListenTogetherDbContextModelSnapshot,BuildModel,154,1,1
+ListenTogether.Infrastructure,ServiceCollectionsExtensions,AddInfrastructure,12,1,2

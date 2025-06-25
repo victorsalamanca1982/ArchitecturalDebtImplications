@@ -1,0 +1,4 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+ListenTogether.Hub.Infrastructure.Data.Migrations,InitialCreate,0,3,0,0,0,273,3,0,0,-1,0,0,,
+ListenTogether.Hub.Infrastructure.Data.Migrations,ListenTogetherDbContextModelSnapshot,0,1,0,0,0,159,1,0,0,-1,0,0,,
+ListenTogether.Infrastructure,ServiceCollectionsExtensions,0,1,0,0,1,16,1,0,0,-1,0,0,,

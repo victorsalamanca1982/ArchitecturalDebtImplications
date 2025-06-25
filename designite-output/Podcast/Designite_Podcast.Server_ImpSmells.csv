@@ -1,0 +1,2 @@
+Implementation smell,Namespace,Class,File,Method,Description
+Magic Number,Podcast.Server.Pages,Landing,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-podcasts-main\dotnet-podcasts-main\src\Web\Server\Pages\Landing.cshtml.cs,OnGet,The following statement contains a magic number: var shows = await _podcastService.GetShows(50' null);
