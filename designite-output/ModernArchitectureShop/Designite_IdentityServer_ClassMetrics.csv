@@ -1,0 +1,70 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+IdentityServer.Areas.Identity,IdentityHostingStartup,0,1,0,0,1,8,1,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,AccessDeniedModel,0,1,0,0,1,7,1,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,ConfirmEmailModel,1,2,1,0,2,32,4,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,ConfirmEmailChangeModel,2,2,1,0,2,50,6,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,ExternalLoginModel,4,5,4,0,5,149,16,0,0,0,4,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,InputModel,0,0,15,0,0,74,0,0,0,-1,0,7,,IdentityServer.Areas.Identity.Pages.Account.ExternalLoginModel' IdentityServer.Areas.Identity.Pages.Account.ForgotPasswordModel' IdentityServer.Areas.Identity.Pages.Account.LoginModel' IdentityServer.Areas.Identity.Pages.Account.LoginWith2faModel' IdentityServer.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel' IdentityServer.Areas.Identity.Pages.Account.RegisterModel' IdentityServer.Areas.Identity.Pages.Account.ResetPasswordModel
+IdentityServer.Areas.Identity.Pages.Account,ForgotPasswordModel,2,2,1,0,2,54,4,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,ForgotPasswordConfirmation,0,1,0,0,1,7,1,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,LockoutModel,0,1,0,0,1,8,1,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,LoginModel,3,3,4,0,3,91,8,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,LoginWith2faModel,2,3,3,0,3,84,8,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,LoginWithRecoveryCodeModel,2,3,2,0,3,75,8,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,LogoutModel,2,3,0,0,3,30,4,0,0,0,67,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,RegisterModel,4,3,3,0,3,95,7,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,RegisterConfirmationModel,2,2,3,0,2,49,5,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account,ResetPasswordModel,1,3,1,0,3,75,8,0,0,0,67,1,0,IdentityServer.Areas.Identity.Pages.Account.InputModel,
+IdentityServer.Areas.Identity.Pages.Account,ResetPasswordConfirmationModel,0,1,0,0,1,8,1,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,ChangePasswordModel,3,3,2,0,3,88,9,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,InputModel,0,0,9,0,0,53,0,0,0,-1,0,6,,IdentityServer.Areas.Identity.Pages.Account.Manage.ChangePasswordModel' IdentityServer.Areas.Identity.Pages.Account.Manage.DeletePersonalDataModel' IdentityServer.Areas.Identity.Pages.Account.Manage.EmailModel' IdentityServer.Areas.Identity.Pages.Account.Manage.EnableAuthenticatorModel' IdentityServer.Areas.Identity.Pages.Account.Manage.IndexModel' IdentityServer.Areas.Identity.Pages.Account.Manage.SetPasswordModel
+IdentityServer.Areas.Identity.Pages.Account.Manage,DeletePersonalDataModel,3,3,2,0,3,72,8,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,Disable2faModel,2,3,1,0,3,51,7,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,DownloadPersonalDataModel,2,2,0,0,2,42,5,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,EmailModel,3,5,5,0,4,130,11,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,EnableAuthenticatorModel,4,6,5,0,3,140,14,0,0,0,33,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,ExternalLoginsModel,2,5,4,0,5,96,11,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,GenerateRecoveryCodesModel,2,3,2,0,3,60,7,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,IndexModel,2,4,3,0,3,83,9,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,ManageNavPages,0,9,8,0,8,41,9,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,PersonalDataModel,2,2,0,0,2,24,3,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,ResetAuthenticatorModel,3,3,1,0,3,48,5,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,SetPasswordModel,2,3,2,0,3,80,9,0,0,0,1,0,IdentityServer.Areas.Identity.Pages.Account.Manage.InputModel,
+IdentityServer.Areas.Identity.Pages.Account.Manage,ShowRecoveryCodesModel,0,1,2,0,1,18,2,0,0,-1,0,0,,
+IdentityServer.Areas.Identity.Pages.Account.Manage,TwoFactorAuthenticationModel,4,3,5,0,3,59,5,0,0,0,0,0,,
+IdentityServer.Areas.Identity.Pages,ErrorModel,0,1,2,0,1,13,1,0,0,-1,0,0,,
+IdentityServer,Config,3,0,3,0,0,64,0,0,0,-1,0,1,,IdentityServer.Startup
+IdentityServer,Program,0,2,0,0,2,46,2,0,0,-1,1,0,IdentityServer.Startup,
+IdentityServer,AccountController,5,10,0,0,6,342,35,0,0,0,2,9,0,IdentityServer.AccountOptions' IdentityServer.ExternalProvider' IdentityServer.LoggedOutViewModel' IdentityServer.LoginInputModel' IdentityServer.LoginViewModel' IdentityServer.LogoutInputModel' IdentityServer.LogoutViewModel' IdentityServer.SecurityHeadersAttribute' IdentityServer.TestUsers,
+IdentityServer,AccountOptions,8,0,0,8,0,16,0,0,0,-1,0,2,,IdentityServer.ExternalController' IdentityServer.AccountController
+IdentityServer,ExternalController,5,7,0,0,3,238,19,0,0,0,29,3,0,IdentityServer.AccountOptions' IdentityServer.SecurityHeadersAttribute' IdentityServer.TestUsers,
+IdentityServer,ExternalProvider,0,0,2,0,0,5,0,0,0,-1,0,2,,IdentityServer.LoginViewModel' IdentityServer.AccountController
+IdentityServer,LoggedOutViewModel,0,0,7,0,0,12,0,0,0,-1,0,1,,IdentityServer.AccountController
+IdentityServer,LoginInputModel,0,0,4,0,0,9,0,1,0,-1,0,2,,IdentityServer.LoginViewModel' IdentityServer.AccountController
+IdentityServer,LoginViewModel,0,0,6,0,0,11,0,0,1,-1,2,1,IdentityServer.ExternalProvider' IdentityServer.LoginInputModel,IdentityServer.AccountController
+IdentityServer,LogoutInputModel,0,0,1,0,0,4,0,1,0,-1,0,2,,IdentityServer.LogoutViewModel' IdentityServer.AccountController
+IdentityServer,LogoutViewModel,0,0,1,0,0,4,0,0,1,-1,1,1,IdentityServer.LogoutInputModel,IdentityServer.AccountController
+IdentityServer,RedirectViewModel,0,0,1,0,0,4,0,0,0,-1,0,1,,IdentityServer.Extensions
+IdentityServer,ConsentController,5,9,0,0,4,244,24,0,0,0,56,6,0,IdentityServer.ConsentInputModel' IdentityServer.ConsentOptions' IdentityServer.ConsentViewModel' IdentityServer.ProcessConsentResult' IdentityServer.ScopeViewModel' IdentityServer.SecurityHeadersAttribute,
+IdentityServer,ConsentInputModel,0,0,4,0,0,7,0,2,0,-1,0,3,,IdentityServer.ConsentViewModel' IdentityServer.Device.DeviceAuthorizationInputModel' IdentityServer.ConsentController
+IdentityServer,ConsentOptions,5,0,0,5,0,9,0,0,0,-1,0,2,,IdentityServer.ConsentController' IdentityServer.Device.DeviceController
+IdentityServer,ConsentViewModel,0,0,6,0,0,10,0,1,1,-1,2,3,IdentityServer.ConsentInputModel' IdentityServer.ScopeViewModel,IdentityServer.Device.DeviceAuthorizationViewModel' IdentityServer.ProcessConsentResult' IdentityServer.ConsentController
+IdentityServer,ProcessConsentResult,0,0,7,0,0,12,0,0,0,-1,1,2,IdentityServer.ConsentViewModel,IdentityServer.ConsentController' IdentityServer.Device.DeviceController
+IdentityServer,ScopeViewModel,0,0,6,0,0,9,0,0,0,-1,0,3,,IdentityServer.ConsentViewModel' IdentityServer.Device.DeviceController' IdentityServer.ConsentController
+IdentityServer,DiagnosticsController,0,1,0,0,1,16,2,0,0,-1,2,0,IdentityServer.DiagnosticsViewModel' IdentityServer.SecurityHeadersAttribute,
+IdentityServer,DiagnosticsViewModel,0,1,2,0,1,19,2,0,0,-1,0,1,,IdentityServer.DiagnosticsController
+IdentityServer,Extensions,0,2,0,0,2,27,3,0,0,-1,1,0,IdentityServer.RedirectViewModel,
+IdentityServer,GrantsController,4,4,0,0,3,76,6,0,0,0,3,0,IdentityServer.GrantsViewModel' IdentityServer.GrantViewModel' IdentityServer.SecurityHeadersAttribute,
+IdentityServer,GrantsViewModel,0,0,1,0,0,4,0,0,0,-1,1,1,IdentityServer.GrantViewModel,IdentityServer.GrantsController
+IdentityServer,GrantViewModel,0,0,8,0,0,11,0,0,0,-1,0,2,,IdentityServer.GrantsViewModel' IdentityServer.GrantsController
+IdentityServer,ErrorViewModel,0,2,1,0,2,13,2,0,0,-1,0,1,,IdentityServer.HomeController
+IdentityServer,HomeController,3,3,0,0,3,50,6,0,0,0,2,0,IdentityServer.ErrorViewModel' IdentityServer.SecurityHeadersAttribute,
+IdentityServer,SecurityHeadersAttribute,0,1,0,0,1,46,7,0,0,-1,0,7,,IdentityServer.GrantsController' IdentityServer.ExternalController' IdentityServer.HomeController' IdentityServer.AccountController' IdentityServer.Device.DeviceController' IdentityServer.DiagnosticsController' IdentityServer.ConsentController
+IdentityServer,TestUsers,1,0,0,1,0,31,0,0,0,-1,0,3,,IdentityServer.AccountController' IdentityServer.ExternalController' IdentityServer.Startup
+IdentityServer,Startup,0,3,2,0,3,72,4,0,0,-1,3,1,IdentityServer.Config' IdentityServer.TestUsers' IdentityServer.Data.ApplicationDbContext,IdentityServer.Program
+IdentityServer.Data,ApplicationDbContext,0,1,0,0,1,8,1,0,0,-1,0,2,,IdentityServer.Data.Migrations.ApplicationDbContextModelSnapshot' IdentityServer.Startup
+IdentityServer.Data.Migrations,CreateIdentitySchema,0,3,0,0,0,477,3,0,0,-1,0,0,,
+IdentityServer.Data.Migrations,ApplicationDbContextModelSnapshot,0,1,0,0,0,264,1,0,0,-1,1,0,IdentityServer.Data.ApplicationDbContext,
+IdentityServer.Device,DeviceAuthorizationInputModel,0,0,1,0,0,4,0,0,1,-1,1,1,IdentityServer.ConsentInputModel,IdentityServer.Device.DeviceController
+IdentityServer.Device,DeviceAuthorizationViewModel,0,0,2,0,0,5,0,0,2,-1,1,1,IdentityServer.ConsentViewModel,IdentityServer.Device.DeviceController
+IdentityServer.Device,DeviceController,5,10,0,0,5,216,25,0,0,0,5,6,0,IdentityServer.ConsentOptions' IdentityServer.ProcessConsentResult' IdentityServer.ScopeViewModel' IdentityServer.SecurityHeadersAttribute' IdentityServer.Device.DeviceAuthorizationInputModel' IdentityServer.Device.DeviceAuthorizationViewModel,

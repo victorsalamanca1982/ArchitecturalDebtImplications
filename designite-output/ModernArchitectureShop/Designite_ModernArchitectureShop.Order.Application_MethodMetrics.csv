@@ -1,0 +1,9 @@
+Namespace,Type,Method,LOC,CC,PC
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,CreateDatabase,0,1,0
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,Remove,0,1,1
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,Update,0,1,1
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,SaveChangesAsync,0,1,1
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,AddAsync,0,1,2
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,GetProcessingAsync,0,1,2
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,GetCompletedAsync,0,1,2
+ModernArchitectureShop.Order.Application.Persistence,IOrderRepository,CountAsync,0,1,2

@@ -1,0 +1,5 @@
+Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
+ModernArchitectureShop.OrderApi.Controllers,OrderController,0,1,0,0,1,12,1,0,0,-1,1,0,ModernArchitectureShop.Order.Infrastructure.UseCases.AddOrder.PlaceOrderCommand,
+ModernArchitectureShop.OrderApi.Controllers,OrdersController,0,1,0,0,1,12,1,0,0,-1,1,0,ModernArchitectureShop.Order.Infrastructure.UseCases.GetCompletedOrders.GetCompletedOrdersCommand,
+ModernArchitectureShop.OrderApi,Program,0,2,0,0,2,33,2,0,0,-1,2,0,ModernArchitectureShop.Order.Application.Persistence.IOrderRepository' ModernArchitectureShop.OrderApi.Startup,
+ModernArchitectureShop.OrderApi,Startup,0,3,1,0,3,83,4,0,0,-1,0,1,,ModernArchitectureShop.OrderApi.Program

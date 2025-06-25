@@ -1,0 +1,3 @@
+Project,Namespace,Ca types,Ce types
+ModernArchitectureShop.OrderApi,ModernArchitectureShop.OrderApi.Controllers,,ModernArchitectureShop.Order.Infrastructure.UseCases.AddOrder.PlaceOrderCommand' ModernArchitectureShop.Order.Infrastructure.UseCases.GetCompletedOrders.GetCompletedOrdersCommand
+ModernArchitectureShop.OrderApi,ModernArchitectureShop.OrderApi,,ModernArchitectureShop.Order.Application.Persistence.IOrderRepository
