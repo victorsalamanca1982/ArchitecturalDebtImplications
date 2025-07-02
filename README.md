@@ -2,14 +2,15 @@
 
 ## Project Structure
 
-This project contains two folders named `arcan-output` and `designite-output` respectively. `arcan-output` contains the results of the projects analyzed with ArcanCLI tool while `designite-output` contains the results of the projects analyzed with Designite. 
+This project contains two folders named `arcan-output` and `designite-output`. 
 
-Al Arcan projects contain the following types of files:
+`arcan-output` contains the results of the projects analyzed with ArcanCLI. All Arcan projects contain the following types of files:
 
-- component-metrics.csv: 
-- project-metrics.csv
-- smell-affects.csv
-- smell-characteristics.csv
+--arcan-output
+|-- component-metrics.csv: 
+|-- project-metrics.csv
+|-- smell-affects.csv
+|-- smell-characteristics.csv
 
 ## Project Analyzed with Arcan
 
