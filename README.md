@@ -6,11 +6,21 @@ This project contains two folders named `arcan-output` and `designite-output`.
 
 `arcan-output` contains the results of the projects analyzed with ArcanCLI. All Arcan projects contain the following types of files:
 
+```
 --arcan-output
-|-- component-metrics.csv: 
-|-- project-metrics.csv
-|-- smell-affects.csv
-|-- smell-characteristics.csv
+|--CloudShop-MicroService-Architecture
+  |-- component-metrics.csv: the list of components (again, classes and packages) and the metrics calculated for each one of them.
+  |-- project-metrics.csv: the summary of the metrics of the project.
+  |-- smell-affects.csv: the list of what components are aﬀected by which smells using the IDs from the component-metrics.csv and smell-characteristics.csv files, respectively.
+  |-- smell-characteristics.csv: the list of smells and the characteristics (i.e. metrics for smells) calculated for each instance detected.
+|--PartsUnlimitedMRP
+  |-- component-metrics.csv
+  |-- project-metrics.csv
+  |-- smell-affects.csv
+  |-- smell-characteristics.csv
+|-- . . .
+|--ArcanProjectsSummary.xlsx: the summary of the metrics or all projects.
+```
 
 ## Project Analyzed with Arcan
 
