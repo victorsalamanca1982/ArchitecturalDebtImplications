@@ -1,2 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Ocelot.Cache.CacheManager,Ocelot.Cache.CacheManager,Ocelot.UnitTests.CacheManager.OcelotCacheManagerCache' Ocelot.UnitTests.CacheManager.OutputCacheMiddlewareRealCacheTests,Ocelot.Cache.CachedResponse' Ocelot.Cache.CacheKeyGenerator' Ocelot.Cache.ICacheKeyGenerator' Ocelot.Cache.IOcelotCache' Ocelot.Configuration.IInternalConfiguration' Ocelot.Configuration.File.FileConfiguration' Ocelot.DependencyInjection.IOcelotBuilder

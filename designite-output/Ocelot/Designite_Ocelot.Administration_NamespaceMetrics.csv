@@ -1,2 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Ocelot.Administration,Ocelot.Administration,,Ocelot.Configuration.Repository.IInternalConfigurationRepository' Ocelot.DependencyInjection.AdministrationPath' Ocelot.DependencyInjection.IAdministrationPath' Ocelot.DependencyInjection.IOcelotAdministrationBuilder' Ocelot.DependencyInjection.IOcelotBuilder' Ocelot.DependencyInjection.OcelotAdministrationBuilder' Ocelot.Middleware.BaseUrlFinder

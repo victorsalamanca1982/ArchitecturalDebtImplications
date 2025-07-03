@@ -1,5 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-Ocelot.Provider.Eureka,Eureka,Eureka,4,1,2
-Ocelot.Provider.Eureka,Eureka,Get,9,2,0
-Ocelot.Provider.Eureka,EurekaMiddlewareConfigurationProvider,UsingEurekaServiceDiscoveryProvider,3,1,1
-Ocelot.Provider.Eureka,OcelotBuilderExtensions,AddEureka,6,1,1

@@ -1,6 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-OcelotApplicationApiGateway,OcelotServiceWebService,0,2,0,0,1,16,2,0,0,-1,1,1,OcelotApplicationApiGateway.WebCommunicationListener,OcelotApplicationApiGateway.Program
-OcelotApplicationApiGateway,Program,0,1,0,0,1,32,1,0,0,-1,3,0,OcelotApplicationApiGateway.OcelotServiceWebService' OcelotApplicationApiGateway.ServiceEventListener' OcelotApplicationApiGateway.ServiceEventSource,
-OcelotApplicationApiGateway,ServiceEventListener,2,4,0,0,1,69,8,0,0,0,5,0,1,,OcelotApplicationApiGateway.Program
-OcelotApplicationApiGateway,ServiceEventSource,5,7,0,1,5,70,9,0,0,1,0,2,,OcelotApplicationApiGateway.Program' OcelotApplicationApiGateway.WebCommunicationListener
-OcelotApplicationApiGateway,WebCommunicationListener,5,5,0,0,4,101,6,0,0,0,4,1,1,OcelotApplicationApiGateway.ServiceEventSource,OcelotApplicationApiGateway.OcelotServiceWebService
