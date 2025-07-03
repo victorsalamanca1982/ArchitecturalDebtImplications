@@ -1,9 +1,0 @@
-Project,Namespace,Ca types,Ce types
-IdentityServer,IdentityServer.Areas.Identity,,
-IdentityServer,IdentityServer.Areas.Identity.Pages.Account,,
-IdentityServer,IdentityServer.Areas.Identity.Pages.Account.Manage,,
-IdentityServer,IdentityServer.Areas.Identity.Pages,,
-IdentityServer,IdentityServer,IdentityServer.Device.DeviceAuthorizationInputModel' IdentityServer.Device.DeviceController' IdentityServer.Device.DeviceAuthorizationViewModel,IdentityServer.Data.ApplicationDbContext
-IdentityServer,IdentityServer.Data,IdentityServer.Data.Migrations.ApplicationDbContextModelSnapshot' IdentityServer.Startup,
-IdentityServer,IdentityServer.Data.Migrations,,IdentityServer.Data.ApplicationDbContext
-IdentityServer,IdentityServer.Device,,IdentityServer.ConsentInputModel' IdentityServer.ConsentViewModel' IdentityServer.ConsentOptions' IdentityServer.ProcessConsentResult' IdentityServer.ScopeViewModel' IdentityServer.SecurityHeadersAttribute

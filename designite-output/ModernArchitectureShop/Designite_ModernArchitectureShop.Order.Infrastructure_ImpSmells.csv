@@ -1,3 +1,0 @@
-Implementation smell,Namespace,Class,File,Method,Description
-Long Parameter List,ModernArchitectureShop.Order.Infrastructure.Dto,ItemDto,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\ModernArchitectureShop-master\ModernArchitectureShop-master\src\Order\ModernArchitectureShop.Order.Infrastructure\Dto\Item.cs,ItemDto,The method has 5 parameters. Parameters: itemId' name' code' price' count
-Long Parameter List,ModernArchitectureShop.Order.Infrastructure.Dto,OrderDto,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\ModernArchitectureShop-master\ModernArchitectureShop-master\src\Order\ModernArchitectureShop.Order.Infrastructure\Dto\Order.cs,OrderDto,The method has 5 parameters. Parameters: orderId' storeId' username' state' items

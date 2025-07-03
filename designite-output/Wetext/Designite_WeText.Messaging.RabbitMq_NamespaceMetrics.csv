@@ -1,2 +1,0 @@
-Project,Namespace,Ca types,Ce types
-WeText.Messaging.RabbitMq,WeText.Messaging.RabbitMq,WeText.Service.WeTextService,WeText.Common.DisposableObject' WeText.Common.Messaging.IMessageSubscriber' WeText.Common.Messaging.MessageReceivedEventArgs' WeText.Common.Messaging.IMessagePublisher' WeText.Common.Messaging.ICommandSender' WeText.Common.Messaging.IEventPublisher

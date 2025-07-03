@@ -1,3 +1,0 @@
-Testability smell,Namespace,Class,File,Cause
-Global State,ModernArchitectureShop.ShopUI,DaprServiceCollectionExtenstion,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\ModernArchitectureShop-master\ModernArchitectureShop-master\src\UI\DaprServiceCollectionExtenstion.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.
-Global State,ModernArchitectureShop.ShopUI,TokenProvider,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\ModernArchitectureShop-master\ModernArchitectureShop-master\src\UI\TokenProvider.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

@@ -1,6 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Shipments,Shipments.Contexts,Shipments.Repositories.ShipmentRepository' Shipments.Startup,Shipments.Entities.Shipment
-Shipments,Shipments.Controllers,,WebApiHelpers.ObjectResults.UnprocessableEntityObjectResult' Shipments.Entities.Shipment' Shipments.Repositories.IShipmentRepository' ShipmentsDtoTypes.Helpers.ShipmentsPagedResult' ShipmentsDtoTypes.Helpers.ShipmentsPagingParameters' ShipmentsDtoTypes.Models.ShipmentDto' ShipmentsDtoTypes.Models.ShipmentToCreateDto
-Shipments,Shipments.Entities,Shipments.Contexts.ShipmentsDbContext' Shipments.Controllers.ShipmentsController' Shipments.Startup' Shipments.Repositories.ShipmentRepository' Shipments.Repositories.IShipmentRepository,
-Shipments,Shipments,,WebApiHelpers.Formatters.ProtobufInputFormatter' WebApiHelpers.Formatters.ProtobufOutputFormatter' Shipments.Contexts.ShipmentsDbContext' Shipments.Entities.Shipment' Shipments.Repositories.IShipmentRepository' Shipments.Repositories.ShipmentRepository' ShipmentsDtoTypes.Models.ShipmentDto' ShipmentsDtoTypes.Models.ShipmentToCreateDto
-Shipments,Shipments.Repositories,Shipments.Startup' Shipments.Controllers.ShipmentsController,Shipments.Entities.Shipment' ShipmentsDtoTypes.Helpers.ShipmentsPagingParameters' Shipments.Contexts.ShipmentsDbContext

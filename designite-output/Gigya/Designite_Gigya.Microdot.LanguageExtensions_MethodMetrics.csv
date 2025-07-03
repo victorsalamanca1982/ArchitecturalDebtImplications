@@ -1,9 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-Gigya.Microdot.LanguageExtensions,MiscExtensions,TryDispose,13,2,1
-Gigya.Microdot.LanguageExtensions,MiscExtensions,IfNotGarbageCollected,10,1,2
-Gigya.Microdot.LanguageExtensions,MiscExtensions,To,0,1,2
-Gigya.Microdot.LanguageExtensions,MiscExtensions,Not,0,1,1
-Gigya.Microdot.LanguageExtensions,StringExtensions,IsSubPathOf,7,1,2
-Gigya.Microdot.LanguageExtensions,StringExtensions,WithEnding,15,4,2
-Gigya.Microdot.LanguageExtensions,StringExtensions,Right,11,3,2
-Gigya.Microdot.LanguageExtensions,StringExtensions,NullWhenEmpty,6,1,1

@@ -1,4 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-ModernArchitectureShop.Order.Domain,Item,0,0,8,0,0,11,0,0,0,-1,0,2,,ModernArchitectureShop.Order.Application.UseCases.OrderManagement.IPlaceOrder' ModernArchitectureShop.Order.Domain.Order
-ModernArchitectureShop.Order.Domain,Order,0,0,6,0,0,9,0,0,0,-1,2,6,ModernArchitectureShop.Order.Domain.Item' ModernArchitectureShop.Order.Domain.State,ModernArchitectureShop.Order.Application.Persistence.IOrderRepository' ModernArchitectureShop.DomainEvents.IPaymentSuccessEvent' ModernArchitectureShop.OrderDomainEvents.IOrderEvent' ModernArchitectureShop.DomainEvents.IPaymentPlacementEvent' ModernArchitectureShop.OrderDomainEvents.UpdateProductAvailabilityEvent' ModernArchitectureShop.DomainEvents.IOrderFailedEvent
-ModernArchitectureShop.Order.Domain,State,0,0,0,0,0,6,0,0,0,-1,0,1,,ModernArchitectureShop.Order.Domain.Order

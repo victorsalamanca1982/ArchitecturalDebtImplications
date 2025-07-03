@@ -1,2 +1,0 @@
-Testability smell,Namespace,Class,File,Cause
-Global State,Api.Authentication,AuthenticationExtensions,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Api\src\Api\Authentication\AuthenticationExtensions.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

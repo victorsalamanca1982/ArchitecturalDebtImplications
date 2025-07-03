@@ -1,5 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-OcelotGraphQL,Hero,0,0,2,0,0,5,0,0,0,-1,0,1,,OcelotGraphQL.Query
-OcelotGraphQL,Query,1,1,0,0,1,15,1,0,0,0,1,1,OcelotGraphQL.Hero,OcelotGraphQL.Program
-OcelotGraphQL,GraphQlDelegatingHandler,2,2,0,0,1,37,3,0,0,0,0,1,,OcelotGraphQL.Program
-OcelotGraphQL,Program,0,1,0,0,1,48,1,0,0,-1,2,0,OcelotGraphQL.Query' OcelotGraphQL.GraphQlDelegatingHandler,

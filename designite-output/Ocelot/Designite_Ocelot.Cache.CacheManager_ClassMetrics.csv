@@ -1,3 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-Ocelot.Cache.CacheManager,OcelotBuilderExtensions,0,1,0,0,1,32,1,0,0,-1,8,0,Ocelot.Cache.CacheManager.OcelotCacheManagerCache<T>' Ocelot.Cache.CachedResponse' Ocelot.Cache.CacheKeyGenerator' Ocelot.Cache.ICacheKeyGenerator' Ocelot.Cache.IOcelotCache' Ocelot.Configuration.IInternalConfiguration' Ocelot.Configuration.File.FileConfiguration' Ocelot.DependencyInjection.IOcelotBuilder,
-Ocelot.Cache.CacheManager,OcelotCacheManagerCache<T>,1,5,0,0,5,36,6,0,1,0,1,3,Ocelot.Cache.IOcelotCache,Ocelot.UnitTests.CacheManager.OcelotCacheManagerCache' Ocelot.Cache.CacheManager.OcelotBuilderExtensions' Ocelot.UnitTests.CacheManager.OutputCacheMiddlewareRealCacheTests

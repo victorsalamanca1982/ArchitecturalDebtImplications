@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-VehicleSQLDB,VehicleSQLDB.DbModels,VehicleSQLDB.VehicleManager' Vehicle.Startup,DomainModels.Business.VehicleDomain.Vehicle
-VehicleSQLDB,VehicleSQLDB,Vehicle.Startup,DomainModels.System.Identifiers' VehicleSQLDB.DbModels.Vehicle' VehicleSQLDB.DbModels.VehicleDbContext

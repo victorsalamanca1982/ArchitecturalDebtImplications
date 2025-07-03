@@ -1,2 +1,0 @@
-Project,Namespace,Ca types,Ce types
-WeText.Querying.PostgreSQL,WeText.Querying.PostgreSQL,,WeText.Common.Querying.TableDataGateway' WeText.Common.Querying.WhereClauseBuilder<TTableObject>

@@ -1,7 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-TrackingTests.IntegrationTest,ContainerService,ContainerService,30,1,0
-TrackingTests.IntegrationTest,ContainerService,AddEnvironmentVariables,5,1,1
-TrackingTests.IntegrationTest,ContainerService,StopContainers,19,1,0
-TrackingTests.IntegrationTest,ContainerService,Dispose,3,1,0
-TrackingTests.IntegrationTest,TrackingTest,TrackingTest,11,1,0
-TrackingTests.IntegrationTest,TrackingTest,GetTracking,5,1,0

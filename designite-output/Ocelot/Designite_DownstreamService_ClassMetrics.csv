@@ -1,4 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-DownstreamService.Controllers,CategoryController,0,1,0,0,1,10,1,0,0,-1,0,0,,
-DownstreamService,Program,0,2,0,0,2,13,2,0,0,-1,1,0,DownstreamService.Startup,
-DownstreamService,Startup,0,3,1,0,3,28,4,0,0,-1,0,1,,DownstreamService.Program

@@ -1,9 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Gigya.ServiceContract,Gigya.Common.Contracts.Attributes,,Gigya.Common.Contracts.Exceptions.EnvironmentException' Gigya.Common.Contracts.Exceptions.RequestException
-Gigya.ServiceContract,Gigya.ServiceContract.Attributes,,
-Gigya.ServiceContract,Gigya.Common.Contracts.HttpService,,Gigya.ServiceContract.HttpService.Revocable<T>
-Gigya.ServiceContract,Gigya.ServiceContract.Exceptions,Gigya.Common.Contracts.Exceptions.SerializableException' Gigya.Common.Contracts.JsonHelper,Gigya.Common.Contracts.Exceptions.RequestException' Gigya.Common.Contracts.Exceptions.Tags
-Gigya.ServiceContract,Gigya.Common.Contracts.Exceptions,Gigya.Common.Application.HttpService.Client.RemoteServiceException' Gigya.Common.Contracts.Attributes.ResponseKinds' Gigya.ServiceContract.Exceptions.InvalidParameterValueException,Gigya.ServiceContract.Exceptions.Breadcrumb' Gigya.Common.Contracts.JsonHelper
-Gigya.ServiceContract,Gigya.Common.Application.HttpService.Client,,Gigya.Common.Contracts.Exceptions.EnvironmentException' Gigya.Common.Contracts.Exceptions.Tags
-Gigya.ServiceContract,Gigya.ServiceContract.HttpService,Gigya.Common.Contracts.HttpService.MethodSchema,
-Gigya.ServiceContract,Gigya.Common.Contracts,Gigya.Common.Contracts.Exceptions.SerializableException,Gigya.ServiceContract.Exceptions.InvalidParameterValueException

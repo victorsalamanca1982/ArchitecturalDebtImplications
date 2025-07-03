@@ -1,7 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-Ocelot.Provider.Polly,CircuitBreaker,CircuitBreaker,6,2,1
-Ocelot.Provider.Polly,OcelotBuilderExtensions,AddPolly,15,1,1
-Ocelot.Provider.Polly,PollyCircuitBreakingDelegatingHandler,PollyCircuitBreakingDelegatingHandler,4,1,2
-Ocelot.Provider.Polly,PollyCircuitBreakingDelegatingHandler,SendAsync,18,1,2
-Ocelot.Provider.Polly,PollyQoSProvider,PollyQoSProvider,34,2,2
-Ocelot.Provider.Polly,RequestTimedOutError,RequestTimedOutError,2,1,1

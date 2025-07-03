@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-ShipmentsDtoTypes,ShipmentsDtoTypes.Helpers,Shipments.Controllers.ShipmentsController' API_Gateway.Controllers.ShipmentsController' Shipments.Repositories.IShipmentRepository' Shipments.Repositories.ShipmentRepository,ShipmentsDtoTypes.Models.ShipmentDto' WebApiHelpersTypes.Helpers.PagingParameters
-ShipmentsDtoTypes,ShipmentsDtoTypes.Models,ShipmentsDtoTypes.Helpers.ShipmentsPagedResult' Shipments.Startup' API_Gateway.Controllers.ShipmentsController' Shipments.Controllers.ShipmentsController,

@@ -1,2 +1,0 @@
-Testability smell,Namespace,Class,File,Cause
-Global State,OcelotApplicationApiGateway,ServiceEventSource,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\samples\OcelotServiceFabric\src\OcelotApplicationApiGateway\ServiceEventSource.cs,The tool detected the smell in this class because the class declares global variables. The detected global variables are: Current

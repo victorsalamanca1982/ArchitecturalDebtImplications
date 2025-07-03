@@ -1,3 +1,0 @@
-Implementation smell,Namespace,Class,File,Method,Description
-Magic Number,Shared.RabbitMq,BusSubscriber,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Shared\src\Shared\RabbitMq\BusSubscriber.cs,BusSubscriber,The following statement contains a magic number: _retries = options.Retries >= 0 ? options.Retries : 3;
-Magic Number,Shared.RabbitMq,BusSubscriber,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Shared\src\Shared\RabbitMq\BusSubscriber.cs,BusSubscriber,The following statement contains a magic number: _retryInterval = options.RetryInterval > 0 ? options.RetryInterval : 2;

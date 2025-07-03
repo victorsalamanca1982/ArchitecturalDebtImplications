@@ -1,6 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-TrackingSQLDB.DbModels,Tracking,0,2,9,0,2,29,2,0,0,-1,2,3,DomainModels.Business.StatusModel' DomainModels.Business.TrackingDomain.Tracking,TrackingSQLDB.DbModels.TrackingDbContext' TrackingSQLDB.TrackingManager' Tracking.Startup
-TrackingSQLDB.DbModels,TrackingDbContext,0,1,1,0,1,7,1,0,0,-1,1,2,TrackingSQLDB.DbModels.Tracking,TrackingSQLDB.TrackingManager' Tracking.Startup
-TrackingSQLDB,ICommandTrackingDB,0,1,0,0,0,5,1,1,0,-1,0,1,,TrackingSQLDB.TrackingManager
-TrackingSQLDB,IQueryTrackingDB,0,2,0,0,0,6,2,1,0,-1,1,1,DomainModels.System.IFilter,TrackingSQLDB.TrackingManager
-TrackingSQLDB,TrackingManager,2,5,2,0,5,62,6,0,1,0,6,6,1,DomainModels.System.Identifiers' DomainModels.System.IFilter' TrackingSQLDB.DbModels.Tracking' TrackingSQLDB.DbModels.TrackingDbContext' TrackingSQLDB.ICommandTrackingDB' TrackingSQLDB.IQueryTrackingDB,Tracking.Startup

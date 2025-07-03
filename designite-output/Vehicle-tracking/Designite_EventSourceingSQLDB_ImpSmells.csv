@@ -1,2 +1,0 @@
-Implementation smell,Namespace,Class,File,Method,Description
-Long Statement,EventSourceingSQLDB.DbModels,DbModelFactory,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\vehicle-tracking-microservices-master\vehicle-tracking-microservices-master\vehicle-tracking-poc\EventSourcing\EventSourceingSqlDb\DbModels\DbModelFactory.cs,Convert,The length of the statement  "            var header = new MessageHeader(executionId: model.ExecutionId' correlationId: model.CorrelationId' timestamp: model.Timestamp' isSucceed: true);" is 144.

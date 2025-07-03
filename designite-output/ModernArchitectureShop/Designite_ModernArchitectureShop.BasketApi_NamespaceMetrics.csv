@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-ModernArchitectureShop.BasketApi,ModernArchitectureShop.BasketApi.Controllers,,ModernArchitectureShop.Basket.Infrastructure.UseCases.AddItem.AddItemCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.DeleteItem.DeleteItemCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.GetBasketTotalPrice.GetBasketTotalPriceCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.GetItemsPage.GetItemsPageCommand' ModernArchitectureShop.Basket.Infrastructure.UseCases.GetItems.GetItemsCommand
-ModernArchitectureShop.BasketApi,ModernArchitectureShop.BasketApi,,ModernArchitectureShop.Basket.Application.Persistence.IItemRepository

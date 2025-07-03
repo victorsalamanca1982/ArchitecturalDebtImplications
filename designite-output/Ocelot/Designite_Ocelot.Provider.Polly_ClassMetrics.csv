@@ -1,6 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-Ocelot.Provider.Polly,CircuitBreaker,1,1,1,0,1,14,2,0,0,0,0,1,,Ocelot.Provider.Polly.PollyQoSProvider
-Ocelot.Provider.Polly,OcelotBuilderExtensions,0,1,0,0,1,19,1,0,0,-1,7,0,Ocelot.Provider.Polly.PollyCircuitBreakingDelegatingHandler' Ocelot.Provider.Polly.PollyQoSProvider' Ocelot.Provider.Polly.RequestTimedOutError' Ocelot.Configuration.DownstreamRoute' Ocelot.DependencyInjection.IOcelotBuilder' Ocelot.Errors.Error' Ocelot.Logging.IOcelotLoggerFactory,
-Ocelot.Provider.Polly,PollyCircuitBreakingDelegatingHandler,2,2,0,0,1,33,2,0,0,0,3,1,Ocelot.Provider.Polly.PollyQoSProvider' Ocelot.Logging.IOcelotLogger' Ocelot.Logging.IOcelotLoggerFactory,Ocelot.Provider.Polly.OcelotBuilderExtensions
-Ocelot.Provider.Polly,PollyQoSProvider,3,1,1,0,1,42,2,0,0,0,4,3,Ocelot.Provider.Polly.CircuitBreaker' Ocelot.Configuration.DownstreamRoute' Ocelot.Logging.IOcelotLogger' Ocelot.Logging.IOcelotLoggerFactory,Ocelot.Provider.Polly.PollyCircuitBreakingDelegatingHandler' Ocelot.Provider.Polly.OcelotBuilderExtensions' Ocelot.UnitTests.Polly.PollyQoSProviderTests
-Ocelot.Provider.Polly,RequestTimedOutError,0,1,0,0,1,7,1,0,1,-1,2,1,Ocelot.Errors.Error' Ocelot.Errors.OcelotErrorCode,Ocelot.Provider.Polly.OcelotBuilderExtensions

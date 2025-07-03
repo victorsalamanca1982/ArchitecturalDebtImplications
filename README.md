@@ -1,5 +1,27 @@
 # ArchitecturalDebtImplications
 
+## Project Structure
+
+This project contains two folders named `arcan-output` and `designite-output`. 
+
+`arcan-output` contains the results of the projects analyzed with ArcanCLI. All Arcan projects contain the following types of files:
+
+```
+--arcan-output
+|--CloudShop-MicroService-Architecture
+  |-- component-metrics.csv: the list of components (again, classes and packages) and the metrics calculated for each one of them.
+  |-- project-metrics.csv: the summary of the metrics of the project.
+  |-- smell-affects.csv: the list of what components are aﬀected by which smells using the IDs from the component-metrics.csv and smell-characteristics.csv files, respectively.
+  |-- smell-characteristics.csv: the list of smells and the characteristics (i.e. metrics for smells) calculated for each instance detected.
+|--PartsUnlimitedMRP
+  |-- component-metrics.csv
+  |-- project-metrics.csv
+  |-- smell-affects.csv
+  |-- smell-characteristics.csv
+|-- . . .
+|--ArcanProjectsSummary.xlsx: the summary of the metrics or all projects.
+```
+
 ## Project Analyzed with Arcan
 
 This is the list of the projects analyzed with Arcan
@@ -7,7 +29,6 @@ This is the list of the projects analyzed with Arcan
 * [Train ticket](https://github.com/FudanSELab/train-ticket)
 * [Cloud shop](https://github.com/yun19830206/CloudShop-MicroService-Architecture)
 * [Qbike](https://github.com/JoeCao/qbike)
-* [Sock shop](https://github.com/microservices-demo/microservices-demo)
 * [Sitewhere](https://github.com/sitewhere/sitewhere)
 * [MRPMicro](https://github.com/microsoft/PartsUnlimitedMRP)
 * [Tea Store](https://github.com/DescartesResearch/TeaStore)

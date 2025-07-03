@@ -1,6 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-CustomerSQLDB,CustomerManager,2,4,2,0,4,38,4,0,1,0,5,5,1,DomainModels.System.Identifiers' CustomerSQLDB.ICommandCustomerDB' CustomerSQLDB.IQueryCustomerDB' CustomerSQLDB.DbModels.Customer' CustomerSQLDB.DbModels.CustomerDbContext,Customer.Startup
-CustomerSQLDB,ICommandCustomerDB,0,1,0,0,0,5,1,1,0,-1,0,1,,CustomerSQLDB.CustomerManager
-CustomerSQLDB,IQueryCustomerDB,0,1,0,0,0,5,1,1,0,-1,0,1,,CustomerSQLDB.CustomerManager
-CustomerSQLDB.DbModels,Customer,0,2,7,0,2,26,2,0,0,-1,1,3,DomainModels.Business.CustomerDomain.Customer,CustomerSQLDB.DbModels.CustomerDbContext' CustomerSQLDB.CustomerManager' Customer.Startup
-CustomerSQLDB.DbModels,CustomerDbContext,0,1,1,0,1,7,1,0,0,-1,1,2,CustomerSQLDB.DbModels.Customer,CustomerSQLDB.CustomerManager' Customer.Startup
