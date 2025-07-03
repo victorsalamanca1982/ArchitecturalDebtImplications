@@ -1,8 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-ModernArchitectureShop.StoreApi.Controllers,ProductsController,1,4,0,0,4,29,4,0,0,0,3,0,ModernArchitectureShop.Store.Infrastructure.UseCases.GetProductsByIds.GetProductsByIdsCommand' ModernArchitectureShop.Store.Infrastructure.UseCases.GetProducts.GetProductsCommand' ModernArchitectureShop.Store.Infrastructure.UseCases.SearchProducts.SearchProductsCommand,
-ModernArchitectureShop.StoreApi.Controllers,ProductSubscriberController,0,2,0,0,2,31,2,0,0,-1,2,0,ModernArchitectureShop.Store.Infrastructure.UseCases.CreateProduct.CreateProductCommand' ModernArchitectureShop.Store.Infrastructure.UseCases.DeleteProduct.DeleteProduct,
-ModernArchitectureShop.StoreApi.Controllers,StoreController,1,3,0,0,3,23,3,0,0,0,2,0,ModernArchitectureShop.Store.Infrastructure.UseCases.AddOrUpdateProductStore.AddOrdUpdateProductStoreCommand' ModernArchitectureShop.Store.Infrastructure.UseCases.CreateStore.CreateStoreCommand,
-ModernArchitectureShop.StoreApi.Controllers,StoresController,0,1,0,0,1,12,1,0,0,-1,1,0,ModernArchitectureShop.Store.Infrastructure.UseCases.GetStores.GetStoreCommand,
-ModernArchitectureShop.StoreApi.Controllers,StoreSubscriberController,2,2,0,0,2,27,2,0,0,0,1,0,ModernArchitectureShop.Store.Infrastructure.UseCases.CreateProduct.CreateProductCommand,
-ModernArchitectureShop.StoreApi,Program,0,2,0,0,2,35,2,0,0,-1,2,0,ModernArchitectureShop.StoreApi.Startup' ModernArchitectureShop.Store.Application.Persistence.IStoreRepository,
-ModernArchitectureShop.StoreApi,Startup,0,3,1,0,3,83,4,0,0,-1,0,1,,ModernArchitectureShop.StoreApi.Program

@@ -1,8 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-ModernArchitectureShop.OrderApi.Controllers,OrderController,PlaceOrder,4,1,2
-ModernArchitectureShop.OrderApi.Controllers,OrdersController,GetCompletedOrders,4,1,2
-ModernArchitectureShop.OrderApi,Program,Main,21,1,1
-ModernArchitectureShop.OrderApi,Program,CreateHostBuilder,0,1,1
-ModernArchitectureShop.OrderApi,Startup,Startup,3,1,1
-ModernArchitectureShop.OrderApi,Startup,ConfigureServices,36,1,1
-ModernArchitectureShop.OrderApi,Startup,Configure,32,2,2
