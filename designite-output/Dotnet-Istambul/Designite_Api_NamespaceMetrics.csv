@@ -1,9 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Api,Api.Authentication,Api.Controllers.TokenController' Api.Controllers.BaseController,Api.Models.Customer
-Api,Api.Commands.Baskets,Api.Controllers.BasketController,Shared.Messages.ICommand' Shared.Messages.MessageNamespaceAttribute
-Api,Api.Commands.Customers,Api.Controllers.CustomerController,Shared.Messages.ICommand' Shared.Messages.MessageNamespaceAttribute
-Api,Api.Commands.Orders,Api.Controllers.OrderController,Shared.Messages.ICommand' Shared.Messages.MessageNamespaceAttribute
-Api,Api.Controllers,,Api.Authentication.TokenModel' Shared.RabbitMq.CorrelationContext' Shared.RabbitMq.IBusPublisher' Shared.RabbitMq.ICorrelationContext' Api.Commands.Baskets.AddProductToBasket' Api.Commands.Customers.CreateCustomer' Api.Commands.Orders.CreateOrder' Api.HttpServices.IProductHttpService' Api.Authentication.IAuthenticationService' Api.Authentication.LoginModel' Api.HttpServices.ICustomerHttpService
-Api,Api.HttpServices,Api.Startup' Api.Controllers.TokenController' Api.Controllers.ProductController,Api.Models.Customer
-Api,Api.Models,Api.Authentication.AuthenticationService' Api.Authentication.IAuthenticationService' Api.HttpServices.ICustomerHttpService' Api.HttpServices.CustomerHttpService,
-Api,Api,,Api.HttpServices.CustomerHttpService' Api.HttpServices.ICustomerHttpService' Api.HttpServices.IProductHttpService' Api.HttpServices.ProductHttpService' Shared.Models.HttpServiceOptions

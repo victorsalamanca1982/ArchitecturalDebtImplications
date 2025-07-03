@@ -1,2 +1,0 @@
-Implementation smell,Namespace,Class,File,Method,Description
-Long Parameter List,Api.Commands.Customers,CreateCustomer,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Api\src\Api\Commands\Customers\CreateCustomer.cs,CreateCustomer,The method has 5 parameters. Parameters: email' password' firstName' lastName' address

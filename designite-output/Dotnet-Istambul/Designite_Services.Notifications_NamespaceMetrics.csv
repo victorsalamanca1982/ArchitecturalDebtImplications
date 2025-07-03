@@ -1,5 +1,0 @@
-Project,Namespace,Ca types,Ce types
-Services.Notifications,Services.Notifications.Controllers,,
-Services.Notifications,Services.Notifications.Events,Services.Notifications.Handlers.OrderCompletedHandler' Services.Notifications.Startup' Services.Notifications.Handlers.OrderFailedHandler,Shared.Messages.IEvent' Shared.Messages.MessageNamespaceAttribute
-Services.Notifications,Services.Notifications.Handlers,,Shared.MessageHandlers.IEventHandler' Shared.RabbitMq.ICorrelationContext' Services.Notifications.Events.OrderCompleted' Services.Notifications.Events.OrderFailed
-Services.Notifications,Services.Notifications,,Services.Notifications.Events.OrderCompleted' Services.Notifications.Events.OrderFailed
