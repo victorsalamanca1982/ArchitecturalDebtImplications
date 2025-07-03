@@ -1,2 +1,0 @@
-Testability smell,Namespace,Class,File,Cause
-Global State,WebApiHelpersTypes.Helpers,ObjectToDictionaryConverter,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\EnterprisePlanner-master\EnterprisePlanner-master\WebApiHelpersTypes\Helpers\ObjectToDictionaryConverter.cs,The tool detected the smell in this class because the class can be accessed as a `global` state.

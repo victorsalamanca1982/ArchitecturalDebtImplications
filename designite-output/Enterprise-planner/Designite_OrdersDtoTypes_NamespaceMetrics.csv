@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-OrdersDtoTypes,OrdersDtoTypes.Helpers,API_Gateway.Controllers.OrdersController' Orders.Controllers.OrdersController' Orders.Repositories.IOrderRepository' Orders.Repositories.OrderRepository,OrdersDtoTypes.Models.OrderDto' WebApiHelpersTypes.Helpers.PagingParameters
-OrdersDtoTypes,OrdersDtoTypes.Models,OrdersDtoTypes.Helpers.OrdersPagedResult' Orders.Startup' API_Gateway.Controllers.OrdersController' Orders.Controllers.OrdersController,

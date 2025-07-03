@@ -1,4 +1,0 @@
-Project,Namespace,Ca types,Ce types
-CustomersDtoTypes,CustomerDtoTypes.Helpers,Customers.Controllers.CustomersController' API_Gateway.Controllers.CustomersController,CustomersDtoTypes.Models.CustomerDto
-CustomersDtoTypes,CustomersDtoTypes.Helpers,Customers.Controllers.CustomersController' Customers.Repositories.ICustomerRepository' Customers.Repositories.CustomerRepository' API_Gateway.Controllers.CustomersController,WebApiHelpersTypes.Helpers.PagingParameters
-CustomersDtoTypes,CustomersDtoTypes.Models,CustomerDtoTypes.Helpers.CustomersPagedResult' Customers.Startup' API_Gateway.Controllers.CustomersController' Customers.Controllers.CustomersController,

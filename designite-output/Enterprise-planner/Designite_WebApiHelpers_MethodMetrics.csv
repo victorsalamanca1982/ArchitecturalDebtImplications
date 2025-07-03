@@ -1,9 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-WebApiHelpers.Formatters,ProtobufInputFormatter,ReadRequestBodyAsync,10,1,1
-WebApiHelpers.Formatters,ProtobufInputFormatter,CanRead,3,1,1
-WebApiHelpers.Formatters,ProtobufInputFormatter,CreateTypeModel,5,1,0
-WebApiHelpers.Formatters,ProtobufOutputFormatter,ProtobufOutputFormatter,6,1,0
-WebApiHelpers.Formatters,ProtobufOutputFormatter,CreateTypeModel,5,1,0
-WebApiHelpers.Formatters,ProtobufOutputFormatter,WriteResponseBodyAsync,6,1,1
-WebApiHelpers.ObjectResults,UnprocessableEntityObjectResult,UnprocessableEntityObjectResult,7,2,1
-WebApiHelpers,Program,Main,8,1,1
