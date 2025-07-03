@@ -1,5 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-BlazorApp1.Server.Pages,ErrorModel,ErrorModel,3,1,1
-BlazorApp1.Server.Pages,ErrorModel,OnGet,3,1,0
-Podcast.Server.Pages,Landing,Landing,3,1,1
-Podcast.Server.Pages,Landing,OnGet,4,1,0
