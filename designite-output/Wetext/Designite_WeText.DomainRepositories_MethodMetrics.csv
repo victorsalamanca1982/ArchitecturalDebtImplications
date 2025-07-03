@@ -1,8 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-WeText.DomainRepositories,InMemoryDomainRepository,InMemoryDomainRepository,1,1,1
-WeText.DomainRepositories,InMemoryDomainRepository,GetAggregateAsync,8,1,1
-WeText.DomainRepositories,InMemoryDomainRepository,SaveAggregateAsync,3,1,1
-WeText.DomainRepositories,MongoDomainRepository,MongoDomainRepository,5,1,2
-WeText.DomainRepositories,MongoDomainRepository,GetAggregateAsync,4,1,1
-WeText.DomainRepositories,MongoDomainRepository,GetAggregateAsync,5,1,1
-WeText.DomainRepositories,MongoDomainRepository,SaveAggregateAsync,14,2,1

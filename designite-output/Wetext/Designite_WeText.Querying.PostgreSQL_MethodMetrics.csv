@@ -1,6 +1,0 @@
-Namespace,Type,Method,LOC,CC,PC
-WeText.Querying.PostgreSQL,PgTableDataGateway,PgTableDataGateway,3,1,1
-WeText.Querying.PostgreSQL,PgTableDataGateway,CreateCommand,0,1,2
-WeText.Querying.PostgreSQL,PgTableDataGateway,CreateDatabaseConnection,0,1,0
-WeText.Querying.PostgreSQL,PgTableDataGateway,CreateParameter,0,1,0
-WeText.Querying.PostgreSQL,PgTableDataGateway,CreateWhereClauseBuilder,0,1,0

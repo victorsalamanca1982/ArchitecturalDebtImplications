@@ -1,2 +1,0 @@
-Design smell,Namespace,Class,File,Cause
-Unnecessary Abstraction,WeText.Querying.MySqlClient,MySqlWhereClauseBuilder<TTableObject>,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\WeText.Querying.MySqlClient\MySqlWhereClauseBuilder.cs,The tool detected the smell in this class because the class contains only a few data members without any method implementation' that indicates that the abstraction might not be required. Following fields and properties are declared in this class: ParameterChar

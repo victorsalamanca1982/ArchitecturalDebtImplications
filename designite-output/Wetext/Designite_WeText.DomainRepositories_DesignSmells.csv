@@ -1,2 +1,0 @@
-Design smell,Namespace,Class,File,Cause
-Unnecessary Abstraction,WeText.DomainRepositories,MongoSetting,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\we-text-master\we-text-master\src\WeText.DomainRepositories\MongoSetting.cs,The tool detected the smell in this class because the class contains only a few data members without any method implementation' that indicates that the abstraction might not be required. Following fields and properties are declared in this class: ConnectionString' DatabaseName' CollectionName
