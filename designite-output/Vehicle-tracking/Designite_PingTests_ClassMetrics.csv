@@ -1,4 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-PingTests.IntegrationTest,ContainerService,5,4,0,0,2,130,4,0,0,0,0,1,,PingTests.IntegrationTest.PingTest
-PingTests.IntegrationTest,PingTest,3,3,0,0,3,35,3,0,0,0,2,0,Ping.Startup' PingTests.IntegrationTest.ContainerService,
-PingTests.UnitTest,PingTest,8,2,0,0,2,40,2,0,0,0,8,0,Ping.Contracts.IPing' Ping.Controllers.PingController' Ping.Models.PingRequest' Ping.Models.VehicleStatus' BuildingAspects.Services.IMessageCommand' BuildingAspects.Services.IOperationalUnit' BuildingAspects.Services.OperationalUnit' DomainModels.System.MiddlewareConfiguration,

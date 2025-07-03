@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-CustomerSQLDB,CustomerSQLDB,Customer.Startup,DomainModels.System.Identifiers' CustomerSQLDB.DbModels.Customer' CustomerSQLDB.DbModels.CustomerDbContext
-CustomerSQLDB,CustomerSQLDB.DbModels,CustomerSQLDB.CustomerManager' Customer.Startup,DomainModels.Business.CustomerDomain.Customer

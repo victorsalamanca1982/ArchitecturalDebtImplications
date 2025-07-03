@@ -1,3 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-EventSourcingMiddleware,Program,0,1,0,0,1,60,1,0,0,-1,2,0,DomainModels.System.Identifiers' EventSourcingMiddleware.Startup,
-EventSourcingMiddleware,Startup,4,3,3,0,3,134,3,0,0,0,67,9,1,BackgroundMiddleware.RabbitMQSubscriberWorker' DomainModels.DataStructure.RabbitMQConfiguration' DomainModels.System.Identifiers' DomainModels.System.MiddlewareConfiguration' DomainModels.System.ServiceConfiguration' DomainModels.Types.DomainModel<Model>' EventSourceingSQLDB.DbModels.DbModelFactory' EventSourceingSQLDB.DbModels.EventSourcingDbContext' EventSourceingSQLDB.Repository.EventSourcingLedger,EventSourcingMiddleware.Program

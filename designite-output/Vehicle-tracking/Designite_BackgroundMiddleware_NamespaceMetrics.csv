@@ -1,2 +1,0 @@
-Project,Namespace,Ca types,Ce types
-BackgroundMiddleware,BackgroundMiddleware,Ping.Startup' Customer.Startup' Vehicle.Startup' Tracking.Startup' EventSourcingMiddleware.Startup,BuildingAspects.Behaviors.Function' BuildingAspects.Behaviors.Utilities' BuildingAspects.Functors.Validators' BuildingAspects.Services.IMessageCommand' BuildingAspects.Utilities.Helper' DomainModels.DataStructure.RabbitMQConfiguration' DomainModels.System.Identifiers' BuildingAspects.Services.IMessageRequest

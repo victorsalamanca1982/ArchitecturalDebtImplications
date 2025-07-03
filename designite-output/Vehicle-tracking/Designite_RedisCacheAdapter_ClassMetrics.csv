@@ -1,3 +1,0 @@
-Namespace,Type,NOF,NOM,NOP,NOPF,NOPM,LOC,WMC,NC,DIT,LCOM,Fan-Out,Fan-In,Fan-Out types,Fan-In types
-RedisCacheAdapter,CacheManager,4,13,1,0,13,87,14,0,1,0,31,3,3,BuildingAspects.Behaviors.Function' DomainModels.System.Identifiers' RedisCacheAdapter.ICacheProvider,Tracking.Startup' Customer.Startup' Vehicle.Startup
-RedisCacheAdapter,ICacheProvider,0,10,0,0,0,13,10,1,0,-1,0,4,,RedisCacheAdapter.CacheManager' Tracking.Startup' Tracking.Controllers.TrackingController' Tracking.Controllers.Mediator.TrackingRequest

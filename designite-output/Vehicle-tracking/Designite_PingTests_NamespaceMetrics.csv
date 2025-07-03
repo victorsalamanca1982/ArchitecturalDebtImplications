@@ -1,3 +1,0 @@
-Project,Namespace,Ca types,Ce types
-PingTests,PingTests.IntegrationTest,,Ping.Startup
-PingTests,PingTests.UnitTest,,Ping.Contracts.IPing' Ping.Controllers.PingController' Ping.Models.PingRequest' Ping.Models.VehicleStatus' BuildingAspects.Services.IMessageCommand' BuildingAspects.Services.IOperationalUnit' BuildingAspects.Services.OperationalUnit' DomainModels.System.MiddlewareConfiguration
