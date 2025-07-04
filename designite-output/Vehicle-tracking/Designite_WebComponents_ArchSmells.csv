@@ -1,2 +1,0 @@
-Architecture smell,Project,Namespace,Cause,Responsible Classes,Participating Classes
-Unstable Dependency,WebComponents,WebComponents.Interceptors,The tool detected the smell in this component because this component depends on other components that are less stable than itself. This component depends on following less stable component(s): DomainModels.Types.Exceptions,WebComponents.Interceptors.CustomException,WebComponents.Interceptors.CustomException
