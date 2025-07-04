@@ -1,2 +1,0 @@
-Design smell,Namespace,Class,File,Cause
-Unutilized Abstraction,Services.Notifications.Controllers,HomeController,C:\Users\victo\Downloads\PROYECTOS_ACTUALIZADOS\dotnet-istanbul-microservices-demo-master\dotnet-istanbul-microservices-demo-master\DotnetIst.Services.Notifications\src\Services.Notifications\Controllers\HomeController.cs,The tool detected the smell in this class because this class is potentially unused.   (Please ignore the smell if the reported class is auto-generated and/or used to serve a specific known purpose.)
