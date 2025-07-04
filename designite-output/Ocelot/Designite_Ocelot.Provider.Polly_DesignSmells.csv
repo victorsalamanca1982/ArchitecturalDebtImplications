@@ -1,3 +1,0 @@
-Design smell,Namespace,Class,File,Cause
-Unutilized Abstraction,Ocelot.Provider.Polly,OcelotBuilderExtensions,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Provider.Polly\OcelotBuilderExtensions.cs,The tool detected the smell in this class because this class is potentially unused.   (Please ignore the smell if the reported class is auto-generated and/or used to serve a specific known purpose.)
-Broken Hierarchy,Ocelot.Provider.Polly,RequestTimedOutError,C:\Users\victo\Downloads\Ocelot-develop\Ocelot-develop\src\Ocelot.Provider.Polly\RequestTimedOutError.cs,The tool detected a potential instance of the smell because this type does not implement or override any method from it's supertype(s): Ocelot.Errors.Error

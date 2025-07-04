@@ -1,3 +1,0 @@
-Architecture smell,Project,Namespace,Cause,Responsible Classes,Participating Classes
-Unstable Dependency,Ocelot.Provider.Polly,Ocelot.Provider.Polly,The tool detected the smell in this component because this component depends on other components that are less stable than itself. This component depends on following less stable component(s): Ocelot.DependencyInjection,Ocelot.Provider.Polly.IOcelotBuilder,Ocelot.Provider.Polly.IOcelotBuilder
-Ambiguous Interface,Ocelot.Provider.Polly,Ocelot.Provider.Polly,The tool detected the smell in this component because the component provides only a single' general entry-point via the following class: OcelotBuilderExtensions,Ocelot.Provider.Polly.OcelotBuilderExtensions,Ocelot.Provider.Polly.OcelotBuilderExtensions
